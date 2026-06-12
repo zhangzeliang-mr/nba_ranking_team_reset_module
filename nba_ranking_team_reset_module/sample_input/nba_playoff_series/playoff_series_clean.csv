@@ -1,0 +1,979 @@
+﻿season,league,round,winner,winner_wins,loser,loser_wins,Favorite,Underdog
+2026,NBA,Eastern Conf First Round,Detroit Pistons (1),4,Orlando Magic (8),3,DET (-600),ORL (+450)
+2026,NBA,Eastern Conf First Round,Cleveland Cavaliers (4),4,Toronto Raptors (5),3,CLE (-550),TOR (+425)
+2026,NBA,Eastern Conf First Round,New York Knicks (3),4,Atlanta Hawks (6),2,NYK (-300),ATL (+250)
+2026,NBA,Eastern Conf First Round,Philadelphia 76ers (7),4,Boston Celtics (2),3,BOS (-1300),PHI (+800)
+2026,NBA,Western Conf First Round,Oklahoma City Thunder (1),4,Phoenix Suns (8),0,OKC (-6000),PHO (+2200)
+2026,NBA,Western Conf First Round,Los Angeles Lakers (4),4,Houston Rockets (5),2,HOU (-550),LAL (+425)
+2026,NBA,Western Conf First Round,Minnesota Timberwolves (6),4,Denver Nuggets (3),2,DEN (-350),MIN (+290)
+2026,NBA,Western Conf First Round,San Antonio Spurs (2),4,Portland Trail Blazers (7),1,SAS (-1800),POR (+1100)
+2026,NBA,Western Conf Semifinals,San Antonio Spurs (2),4,Minnesota Timberwolves (6),2,SAS (-400),MIN (+310)
+2026,NBA,Western Conf Semifinals,Oklahoma City Thunder (1),4,Los Angeles Lakers (4),0,OKC (-1600),LAL (+1000)
+2026,NBA,Eastern Conf Semifinals,New York Knicks (3),4,Philadelphia 76ers (7),0,NYK (-250),PHI (+210)
+2026,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (4),4,Detroit Pistons (1),3,DET (-120),CLE (+100)
+2026,NBA,Western Conf Finals,Oklahoma City Thunder lead the San Antonio Spurs (3-2),Oklahoma City Thunder lead the San Antonio Spurs (3-2),Oklahoma City Thunder lead the San Antonio Spurs (3-2),Oklahoma City Thunder lead the San Antonio Spurs (3-2),OKC (-260),SAS (+220)
+2026,NBA,Eastern Conf Finals,New York Knicks (3),4,Cleveland Cavaliers (4),0,NYK (-260),CLE (+220)
+2025,NBA,Eastern Conf First Round,Cleveland Cavaliers (1),4,Miami Heat (8),0,CLE (-4000),MIA (+1800)
+2025,NBA,Eastern Conf First Round,Indiana Pacers (4),4,Milwaukee Bucks (5),1,IND (-190),MIL (+170)
+2025,NBA,Eastern Conf First Round,New York Knicks (3),4,Detroit Pistons (6),2,NYK (-400),DET (+330)
+2025,NBA,Eastern Conf First Round,Boston Celtics (2),4,Orlando Magic (7),1,BOS (-5000),ORL (+2000)
+2025,NBA,Western Conf First Round,Oklahoma City Thunder (1),4,Memphis Grizzlies (8),0,OKC (-3000),MEM (+1500)
+2025,NBA,Western Conf First Round,Denver Nuggets (4),4,Los Angeles Clippers (5),3,LAC (-115),DEN (-105)
+2025,NBA,Western Conf First Round,Minnesota Timberwolves (6),4,Los Angeles Lakers (3),1,LAL (-200),MIN (+175)
+2025,NBA,Western Conf First Round,Golden State Warriors (7),4,Houston Rockets (2),3,GSW (-175),HOU (+155)
+2025,NBA,Eastern Conf Semifinals,Indiana Pacers (4),4,Cleveland Cavaliers (1),1,CLE (-550),IND (+425)
+2025,NBA,Eastern Conf Semifinals,New York Knicks (3),4,Boston Celtics (2),2,BOS (-800),NYK (+550)
+2025,NBA,Western Conf Semifinals,Oklahoma City Thunder (1),4,Denver Nuggets (4),3,OKC (-750),DEN (+525)
+2025,NBA,Western Conf Semifinals,Minnesota Timberwolves (6),4,Golden State Warriors (7),1,MIN (-190),GSW (+170)
+2025,NBA,Eastern Conf Finals,Indiana Pacers (4),4,New York Knicks (3),2,NYK (-155),IND (+135)
+2025,NBA,Western Conf Finals,Oklahoma City Thunder (1),4,Minnesota Timberwolves (6),1,OKC (-335),MIN (+275)
+2025,NBA,Finals,Oklahoma City Thunder (1),4,Indiana Pacers (4),3,OKC (-650),IND (+500)
+2024,NBA,Eastern Conf First Round,Boston Celtics (1),4,Miami Heat (8),1,BOS (-10000),MIA (+2000)
+2024,NBA,Eastern Conf First Round,Cleveland Cavaliers (4),4,Orlando Magic (5),3,CLE (-210),ORL (+180)
+2024,NBA,Eastern Conf First Round,Indiana Pacers (6),4,Milwaukee Bucks (3),2,IND (-125),MIL (+105)
+2024,NBA,Eastern Conf First Round,New York Knicks (2),4,Philadelphia 76ers (7),2,NYK (-140),PHI (+120)
+2024,NBA,Western Conf First Round,Oklahoma City Thunder (1),4,New Orleans Pelicans (8),0,OKC (-700),NOP (+500)
+2024,NBA,Western Conf First Round,Dallas Mavericks (5),4,Los Angeles Clippers (4),2,DAL (-190),LAC (+165)
+2024,NBA,Western Conf First Round,Minnesota Timberwolves (3),4,Phoenix Suns (6),0,PHO (-130),MIN (+110)
+2024,NBA,Western Conf First Round,Denver Nuggets (2),4,Los Angeles Lakers (7),1,DEN (-340),LAL (+280)
+2024,NBA,Eastern Conf Semifinals,Indiana Pacers (6),4,New York Knicks (2),3,NYK (-260),IND (+220)
+2024,NBA,Western Conf Semifinals,Dallas Mavericks (5),4,Oklahoma City Thunder (1),2,OKC (-130),DAL (+110)
+2024,NBA,Western Conf Semifinals,Minnesota Timberwolves (3),4,Denver Nuggets (2),3,DEN (-200),MIN (+170)
+2024,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Cleveland Cavaliers (4),1,BOS (-2500),CLE (+1100)
+2024,NBA,Eastern Conf Finals,Boston Celtics (1),4,Indiana Pacers (6),0,BOS (-900),IND (+600)
+2024,NBA,Western Conf Finals,Dallas Mavericks (5),4,Minnesota Timberwolves (3),1,MIN (-175),DAL (+155)
+2024,NBA,Finals,Boston Celtics (1),4,Dallas Mavericks (5),1,BOS (-225),DAL (+190)
+2023,NBA,Eastern Conf First Round,Miami Heat (8),4,Milwaukee Bucks (1),1,MIL (-1200),MIA (+750)
+2023,NBA,Eastern Conf First Round,New York Knicks (5),4,Cleveland Cavaliers (4),1,CLE (-190),NYK (+170)
+2023,NBA,Eastern Conf First Round,Philadelphia 76ers (3),4,Brooklyn Nets (6),0,PHI (-1100),BRK (+700)
+2023,NBA,Eastern Conf First Round,Boston Celtics (2),4,Atlanta Hawks (7),2,BOS (-1600),ATL (+900)
+2023,NBA,Western Conf First Round,Denver Nuggets (1),4,Minnesota Timberwolves (8),1,DEN (-550),MIN (+425)
+2023,NBA,Western Conf First Round,Phoenix Suns (4),4,Los Angeles Clippers (5),1,PHO (-500),LAC (+400)
+2023,NBA,Western Conf First Round,Golden State Warriors (6),4,Sacramento Kings (3),3,GSW (-265),SAC (+225)
+2023,NBA,Western Conf First Round,Los Angeles Lakers (7),4,Memphis Grizzlies (2),2,MEM (-140),LAL (+120)
+2023,NBA,Eastern Conf Semifinals,Miami Heat (8),4,New York Knicks (5),2,NYK (-160),MIA (+140)
+2023,NBA,Eastern Conf Semifinals,Boston Celtics (2),4,Philadelphia 76ers (3),3,BOS (-550),PHI (+425)
+2023,NBA,Western Conf Semifinals,Denver Nuggets (1),4,Phoenix Suns (4),2,PHO (-120),DEN (+100)
+2023,NBA,Western Conf Semifinals,Los Angeles Lakers (7),4,Golden State Warriors (6),2,GSW (-150),LAL (+130)
+2023,NBA,Western Conf Finals,Denver Nuggets (1),4,Los Angeles Lakers (7),0,DEN (-170),LAL (+145)
+2023,NBA,Eastern Conf Finals,Miami Heat (8),4,Boston Celtics (2),3,BOS (-550),MIA (+400)
+2023,NBA,Finals,Denver Nuggets (1),4,Miami Heat (8),1,DEN (-430),MIA (+330)
+2022,NBA,Eastern Conf First Round,Milwaukee Bucks (3),4,Chicago Bulls (6),1,MIL (-1100),CHI (+700)
+2022,NBA,Western Conf First Round,Memphis Grizzlies (2),4,Minnesota Timberwolves (7),2,MEM (-320),MIN (+260)
+2022,NBA,Eastern Conf First Round,Boston Celtics (2),4,Brooklyn Nets (7),0,BOS (-130),BRK (+110)
+2022,NBA,Western Conf First Round,Golden State Warriors (3),4,Denver Nuggets (6),1,GSW (-275),DEN (+225)
+2022,NBA,Western Conf First Round,Dallas Mavericks (4),4,Utah Jazz (5),2,UTA (-300),DAL (+245)
+2022,NBA,Eastern Conf First Round,Philadelphia 76ers (4),4,Toronto Raptors (5),2,PHI (-175),TOR (+155)
+2022,NBA,Western Conf First Round,Phoenix Suns (1),4,New Orleans Pelicans (8),2,PHO (-1350),NOP (+750)
+2022,NBA,Eastern Conf First Round,Miami Heat (1),4,Atlanta Hawks (8),1,MIA (-420),ATL (+330)
+2022,NBA,Eastern Conf Semifinals,Boston Celtics (2),4,Milwaukee Bucks (3),3,BOS (-200),MIL (+170)
+2022,NBA,Eastern Conf Semifinals,Miami Heat (1),4,Philadelphia 76ers (4),2,MIA (-310),PHI (+250)
+2022,NBA,Western Conf Semifinals,Dallas Mavericks (4),4,Phoenix Suns (1),3,PHO (-295),DAL (+240)
+2022,NBA,Western Conf Semifinals,Golden State Warriors (3),4,Memphis Grizzlies (2),2,GSW (-255),MEM (+210)
+2022,NBA,Western Conf Finals,Golden State Warriors (3),4,Dallas Mavericks (4),1,GSW (-220),DAL (+180)
+2022,NBA,Eastern Conf Finals,Boston Celtics (2),4,Miami Heat (1),3,BOS (-160),MIA (+140)
+2022,NBA,Finals,Golden State Warriors (3),4,Boston Celtics (2),2,GSW (-145),BOS (+125)
+2021,NBA,Eastern Conf First Round,Milwaukee Bucks (3),4,Miami Heat (6),0,MIL (-320),MIA (+250)
+2021,NBA,Western Conf First Round,Los Angeles Clippers (4),4,Dallas Mavericks (5),3,LAC (-400),DAL (+310)
+2021,NBA,Eastern Conf First Round,Brooklyn Nets (2),4,Boston Celtics (7),1,BRK (-1400),BOS (+800)
+2021,NBA,Western Conf First Round,Denver Nuggets (3),4,Portland Trail Blazers (6),2,POR (-130),DEN (+110)
+2021,NBA,Eastern Conf First Round,Philadelphia 76ers (1),4,Washington Wizards (8),1,PHI (-1000),WAS (+650)
+2021,NBA,Western Conf First Round,Utah Jazz (1),4,Memphis Grizzlies (8),1,UTA (-1400),MEM (+800)
+2021,NBA,Eastern Conf First Round,Atlanta Hawks (5),4,New York Knicks (4),1,ATL (-130),NYK (+110)
+2021,NBA,Western Conf First Round,Phoenix Suns (2),4,Los Angeles Lakers (7),2,LAL (-175),PHO (+155)
+2021,NBA,Eastern Conf Semifinals,Milwaukee Bucks (3),4,Brooklyn Nets (2),3,BRK (-180),MIL (+160)
+2021,NBA,Eastern Conf Semifinals,Atlanta Hawks (5),4,Philadelphia 76ers (1),3,PHI (-175),ATL (+155)
+2021,NBA,Western Conf Semifinals,Phoenix Suns (2),4,Denver Nuggets (3),0,PHO (-210),DEN (+175)
+2021,NBA,Western Conf Semifinals,Los Angeles Clippers (4),4,Utah Jazz (1),2,UTA (-130),LAC (+110)
+2021,NBA,Western Conf Finals,Phoenix Suns (2),4,Los Angeles Clippers (4),2,PHO (-200),LAC (+170)
+2021,NBA,Eastern Conf Finals,Milwaukee Bucks (3),4,Atlanta Hawks (5),2,MIL (-500),ATL (+400)
+2021,NBA,Finals,Milwaukee Bucks (3),4,Phoenix Suns (2),2,PHO (-180),MIL (+160)
+2020,NBA,Eastern Conf First Round,Milwaukee Bucks (1),4,Orlando Magic (8),1,MIL (-7500),ORL (+3250)
+2020,NBA,Eastern Conf First Round,Toronto Raptors (2),4,Brooklyn Nets (7),0,TOR (-2200),BRK (+1315)
+2020,NBA,Eastern Conf First Round,Boston Celtics (3),4,Philadelphia 76ers (6),0,BOS (-450),PHI (+360)
+2020,NBA,Eastern Conf First Round,Miami Heat (5),4,Indiana Pacers (4),0,MIA (-320),IND (+260)
+2020,NBA,Western Conf First Round,Los Angeles Lakers (1),4,Portland Trail Blazers (8),1,LAL (-550),POR (+425)
+2020,NBA,Western Conf First Round,Los Angeles Clippers (2),4,Dallas Mavericks (7),2,LAC (-630),DAL (+465)
+2020,NBA,Western Conf First Round,Denver Nuggets (3),4,Utah Jazz (6),3,DEN (-285),UTA (+243)
+2020,NBA,Western Conf First Round,Houston Rockets (4),4,Oklahoma City Thunder (5),3,HOU (-160),OKC (+140)
+2020,NBA,Eastern Conf Semifinals,Boston Celtics (3),4,Toronto Raptors (2),3,TOR (-135),BOS (+115)
+2020,NBA,Eastern Conf Semifinals,Miami Heat (5),4,Milwaukee Bucks (1),1,MIL (-440),MIA (+350)
+2020,NBA,Western Conf Semifinals,Denver Nuggets (3),4,Los Angeles Clippers (2),3,LAC (-1300),DEN (+850)
+2020,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Houston Rockets (4),1,LAL (-550),HOU (+425)
+2020,NBA,Eastern Conf Finals,Miami Heat (5),4,Boston Celtics (3),2,BOS (-130),MIA (+110)
+2020,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Denver Nuggets (3),1,LAL (-550),DEN (+425)
+2020,NBA,Finals,Los Angeles Lakers (1),4,Miami Heat (5),2,LAL (-350),MIA (+290)
+2019,NBA,Eastern Conf First Round,Milwaukee Bucks (1),4,Detroit Pistons (8),0,MIL (-3500),DET (+1750)
+2019,NBA,Eastern Conf First Round,Toronto Raptors (2),4,Orlando Magic (7),1,TOR (-1200),ORL (+775)
+2019,NBA,Eastern Conf First Round,Philadelphia 76ers (3),4,Brooklyn Nets (6),1,PHI (-600),BRK (+450)
+2019,NBA,Eastern Conf First Round,Boston Celtics (4),4,Indiana Pacers (5),0,BOS (-465),IND (+370)
+2019,NBA,Western Conf First Round,Golden State Warriors (1),4,Los Angeles Clippers (8),2,GSW (-15000),LAC (+6000)
+2019,NBA,Western Conf First Round,Denver Nuggets (2),4,San Antonio Spurs (7),3,DEN (-270),SAS (+230)
+2019,NBA,Western Conf First Round,Portland Trail Blazers (3),4,Oklahoma City Thunder (6),1,OKC (-165),POR (+145)
+2019,NBA,Western Conf First Round,Houston Rockets (4),4,Utah Jazz (5),1,HOU (-310),UTA (+255)
+2019,NBA,Eastern Conf Semifinals,Milwaukee Bucks (1),4,Boston Celtics (4),1,MIL (-360),BOS (+300)
+2019,NBA,Eastern Conf Semifinals,Toronto Raptors (2),4,Philadelphia 76ers (3),3,TOR (-290),PHI (+245)
+2019,NBA,Western Conf Semifinals,Golden State Warriors (1),4,Houston Rockets (4),2,GSW (-280),HOU (+240)
+2019,NBA,Western Conf Semifinals,Portland Trail Blazers (3),4,Denver Nuggets (2),3,DEN (-145),POR (+125)
+2019,NBA,Eastern Conf Finals,Toronto Raptors (2),4,Milwaukee Bucks (1),2,MIL (-270),TOR (+230)
+2019,NBA,Western Conf Finals,Golden State Warriors (1),4,Portland Trail Blazers (3),0,GSW (-550),POR (+425)
+2019,NBA,Finals,Toronto Raptors (2),4,Golden State Warriors (1),2,GSW (-270),TOR (+230)
+2018,NBA,Eastern Conf First Round,Toronto Raptors (1),4,Washington Wizards (8),2,TOR (-630),WAS (+465)
+2018,NBA,Eastern Conf First Round,Boston Celtics (2),4,Milwaukee Bucks (7),3,BOS (-150),MIL (+130)
+2018,NBA,Eastern Conf First Round,Philadelphia 76ers (3),4,Miami Heat (6),1,PHI (-500),MIA (+400)
+2018,NBA,Eastern Conf First Round,Cleveland Cavaliers (4),4,Indiana Pacers (5),3,CLE (-600),IND (+450)
+2018,NBA,Western Conf First Round,Houston Rockets (1),4,Minnesota Timberwolves (8),1,HOU (-3000),MIN (+1500)
+2018,NBA,Western Conf First Round,Golden State Warriors (2),4,San Antonio Spurs (7),1,GSW (-900),SAS (+600)
+2018,NBA,Western Conf First Round,New Orleans Pelicans (6),4,Portland Trail Blazers (3),0,POR (-220),NOP (+180)
+2018,NBA,Western Conf First Round,Utah Jazz (5),4,Oklahoma City Thunder (4),2,OKC (-140),UTA (+120)
+2018,NBA,Western Conf Semifinals,Golden State Warriors (2),4,New Orleans Pelicans (6),1,GSW (-1050),NOP (+675)
+2018,NBA,Western Conf Semifinals,Houston Rockets (1),4,Utah Jazz (5),1,HOU (-1500),UTA (+1000)
+2018,NBA,Eastern Conf Semifinals,Boston Celtics (2),4,Philadelphia 76ers (3),1,PHI (-525),BOS (+415)
+2018,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (4),4,Toronto Raptors (1),0,TOR (-190),CLE (+165)
+2018,NBA,Eastern Conf Finals,Cleveland Cavaliers (4),4,Boston Celtics (2),3,CLE (-275),BOS (+235)
+2018,NBA,Western Conf Finals,Golden State Warriors (2),4,Houston Rockets (1),3,GSW (-200),HOU (+170)
+2018,NBA,Finals,Golden State Warriors (2),4,Cleveland Cavaliers (4),0,GSW (-1075),CLE (+688)
+2017,NBA,Eastern Conf First Round,Boston Celtics (1),4,Chicago Bulls (8),2,BOS (-470),CHI (+375)
+2017,NBA,Eastern Conf First Round,Cleveland Cavaliers (2),4,Indiana Pacers (7),0,CLE (-1100),IND (+700)
+2017,NBA,Eastern Conf First Round,Toronto Raptors (3),4,Milwaukee Bucks (6),2,TOR (-440),MIL (+350)
+2017,NBA,Eastern Conf First Round,Washington Wizards (4),4,Atlanta Hawks (5),2,WAS (-220),ATL (+180)
+2017,NBA,Western Conf First Round,Golden State Warriors (1),4,Portland Trail Blazers (8),0,GSW (-7000),POR (+3000)
+2017,NBA,Western Conf First Round,San Antonio Spurs (2),4,Memphis Grizzlies (7),2,SAS (-1070),MEM (+685)
+2017,NBA,Western Conf First Round,Houston Rockets (3),4,Oklahoma City Thunder (6),1,HOU (-390),OKC (+320)
+2017,NBA,Western Conf First Round,Utah Jazz (5),4,Los Angeles Clippers (4),3,LAC (-245),UTA (+205)
+2017,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (2),4,Toronto Raptors (3),0,CLE (-475),TOR (+380)
+2017,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Washington Wizards (4),3,BOS (-185),WAS (+160)
+2017,NBA,Western Conf Semifinals,Golden State Warriors (1),4,Utah Jazz (5),0,GSW (-3200),UTA (+1600)
+2017,NBA,Western Conf Semifinals,San Antonio Spurs (2),4,Houston Rockets (3),2,SAS (-300),HOU (+250)
+2017,NBA,Western Conf Finals,Golden State Warriors (1),4,San Antonio Spurs (2),0,GSW (-1050),SAS (+675)
+2017,NBA,Eastern Conf Finals,Cleveland Cavaliers (2),4,Boston Celtics (1),1,CLE (-700),BOS (+500)
+2017,NBA,Finals,Golden State Warriors (1),4,Cleveland Cavaliers (2),1,GSW (-300),CLE (+250)
+2016,NBA,Eastern Conf First Round,Cleveland Cavaliers (1),4,Detroit Pistons (8),0,CLE (-1700),DET (+1100)
+2016,NBA,Eastern Conf First Round,Toronto Raptors (2),4,Indiana Pacers (7),3,TOR (-400),IND (+325)
+2016,NBA,Eastern Conf First Round,Miami Heat (3),4,Charlotte Hornets (6),3,MIA (-170),CHO (+150)
+2016,NBA,Eastern Conf First Round,Atlanta Hawks (4),4,Boston Celtics (5),2,ATL (-165),BOS (+145)
+2016,NBA,Western Conf First Round,Golden State Warriors (1),4,Houston Rockets (8),1,GSW (-10000),HOU (+4000)
+2016,NBA,Western Conf First Round,San Antonio Spurs (2),4,Memphis Grizzlies (7),0,SAS (-17000),MEM (+6625)
+2016,NBA,Western Conf First Round,Oklahoma City Thunder (3),4,Dallas Mavericks (6),1,OKC (-3500),DAL (+1750)
+2016,NBA,Western Conf First Round,Portland Trail Blazers (5),4,Los Angeles Clippers (4),2,LAC (-525),POR (+415)
+2016,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (1),4,Atlanta Hawks (4),0,CLE (-500),ATL (+400)
+2016,NBA,Eastern Conf Semifinals,Toronto Raptors (2),4,Miami Heat (3),3,TOR (-145),MIA (+125)
+2016,NBA,Western Conf Semifinals,Golden State Warriors (1),4,Portland Trail Blazers (5),1,GSW (-1600),POR (+1050)
+2016,NBA,Western Conf Semifinals,Oklahoma City Thunder (3),4,San Antonio Spurs (2),2,SAS (-270),OKC (+230)
+2016,NBA,Eastern Conf Finals,Cleveland Cavaliers (1),4,Toronto Raptors (2),2,CLE (-1350),TOR (+885)
+2016,NBA,Western Conf Finals,Golden State Warriors (1),4,Oklahoma City Thunder (3),3,GSW (-430),OKC (+345)
+2016,NBA,Finals,Cleveland Cavaliers (1),4,Golden State Warriors (1),3,GSW (-220),CLE (+180)
+2015,NBA,Eastern Conf First Round,Atlanta Hawks (1),4,Brooklyn Nets (8),2,ATL (-1350),BRK (+900)
+2015,NBA,Eastern Conf First Round,Cleveland Cavaliers (2),4,Boston Celtics (7),0,CLE (-5000),BOS (+2100)
+2015,NBA,Eastern Conf First Round,Chicago Bulls (3),4,Milwaukee Bucks (6),2,CHI (-950),MIL (+700)
+2015,NBA,Eastern Conf First Round,Washington Wizards (5),4,Toronto Raptors (4),0,TOR (-175),WAS (+155)
+2015,NBA,Western Conf First Round,Golden State Warriors (1),4,New Orleans Pelicans (8),0,GSW (-3000),NOP (+1500)
+2015,NBA,Western Conf First Round,Houston Rockets (2),4,Dallas Mavericks (7),1,HOU (-260),DAL (+220)
+2015,NBA,Western Conf First Round,Los Angeles Clippers (3),4,San Antonio Spurs (6),3,SAS (-180),LAC (+160)
+2015,NBA,Western Conf First Round,Memphis Grizzlies (5),4,Portland Trail Blazers (4),1,MEM (-225),POR (+195)
+2015,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (2),4,Chicago Bulls (3),2,CLE (-240),CHI (+200)
+2015,NBA,Eastern Conf Semifinals,Atlanta Hawks (1),4,Washington Wizards (5),2,ATL (-245),WAS (+205)
+2015,NBA,Western Conf Semifinals,Houston Rockets (2),4,Los Angeles Clippers (3),3,HOU (-150),LAC (+130)
+2015,NBA,Western Conf Semifinals,Golden State Warriors (1),4,Memphis Grizzlies (5),2,GSW (-1000),MEM (+725)
+2015,NBA,Eastern Conf Finals,Cleveland Cavaliers (2),4,Atlanta Hawks (1),0,CLE (-190),ATL (+165)
+2015,NBA,Western Conf Finals,Golden State Warriors (1),4,Houston Rockets (2),1,GSW (-880),HOU (+665)
+2015,NBA,Finals,Golden State Warriors (1),4,Cleveland Cavaliers (2),2,GSW (-220),CLE (+190)
+2014,NBA,Eastern Conf First Round,Indiana Pacers (1),4,Atlanta Hawks (8),3,IND (-600),ATL (+440)
+2014,NBA,Eastern Conf First Round,Miami Heat (2),4,Charlotte Bobcats (7),0,MIA (-2500),CHA (+1000)
+2014,NBA,Eastern Conf First Round,Brooklyn Nets (6),4,Toronto Raptors (3),3,BRK (-130),TOR (+110)
+2014,NBA,Eastern Conf First Round,Washington Wizards (5),4,Chicago Bulls (4),1,CHI (-180),WAS (+160)
+2014,NBA,Western Conf First Round,San Antonio Spurs (1),4,Dallas Mavericks (8),3,SAS (-875),DAL (+585)
+2014,NBA,Western Conf First Round,Oklahoma City Thunder (2),4,Memphis Grizzlies (7),3,OKC (-500),MEM (+375)
+2014,NBA,Western Conf First Round,Los Angeles Clippers (3),4,Golden State Warriors (6),3,LAC (-400),GSW (+285)
+2014,NBA,Western Conf First Round,Portland Trail Blazers (5),4,Houston Rockets (4),2,HOU (-200),POR (+170)
+2014,NBA,Eastern Conf Semifinals,Indiana Pacers (1),4,Washington Wizards (5),2,IND (-165),WAS (+145)
+2014,NBA,Eastern Conf Semifinals,Miami Heat (2),4,Brooklyn Nets (6),1,MIA (-620),BRK (+450)
+2014,NBA,Western Conf Semifinals,San Antonio Spurs (1),4,Portland Trail Blazers (5),1,SAS (-410),POR (+320)
+2014,NBA,Western Conf Semifinals,Oklahoma City Thunder (2),4,Los Angeles Clippers (3),2,OKC (-205),LAC (+175)
+2014,NBA,Eastern Conf Finals,Miami Heat (2),4,Indiana Pacers (1),2,MIA (-380),IND (+300)
+2014,NBA,Western Conf Finals,San Antonio Spurs (1),4,Oklahoma City Thunder (2),2,SAS (-245),OKC (+205)
+2014,NBA,Finals,San Antonio Spurs (1),4,Miami Heat (2),1,SAS (-155),MIA (+135)
+2013,NBA,Eastern Conf First Round,Miami Heat (1),4,Milwaukee Bucks (8),0,MIA (-20000),MIL (+7500)
+2013,NBA,Eastern Conf First Round,New York Knicks (2),4,Boston Celtics (7),2,NYK (-410),BOS (+320)
+2013,NBA,Eastern Conf First Round,Indiana Pacers (3),4,Atlanta Hawks (6),2,IND (-380),ATL (+300)
+2013,NBA,Eastern Conf First Round,Chicago Bulls (5),4,Brooklyn Nets (4),3,BRK (-145),CHI (+125)
+2013,NBA,Western Conf First Round,Oklahoma City Thunder (1),4,Houston Rockets (8),2,OKC (-1900),HOU (+875)
+2013,NBA,Western Conf First Round,San Antonio Spurs (2),4,Los Angeles Lakers (7),0,SAS (-1000),LAL (+650)
+2013,NBA,Western Conf First Round,Golden State Warriors (6),4,Denver Nuggets (3),2,DEN (-460),GSW (+355)
+2013,NBA,Western Conf First Round,Memphis Grizzlies (5),4,Los Angeles Clippers (4),2,LAC (-180),MEM (+160)
+2013,NBA,Eastern Conf Semifinals,Miami Heat (1),4,Chicago Bulls (5),1,MIA (-3000),CHI (+1100)
+2013,NBA,Eastern Conf Semifinals,Indiana Pacers (3),4,New York Knicks (2),2,NYK (-190),IND (+165)
+2013,NBA,Western Conf Semifinals,Memphis Grizzlies (5),4,Oklahoma City Thunder (1),1,MEM (-127),OKC (+107)
+2013,NBA,Western Conf Semifinals,San Antonio Spurs (2),4,Golden State Warriors (6),2,SAS (-950),GSW (+625)
+2013,NBA,Eastern Conf Finals,Miami Heat (1),4,Indiana Pacers (3),3,MIA (-850),IND (+575)
+2013,NBA,Western Conf Finals,San Antonio Spurs (2),4,Memphis Grizzlies (5),0,SAS (-145),MEM (+125)
+2013,NBA,Finals,Miami Heat (1),4,San Antonio Spurs (2),3,MIA (-220),SAS (+180)
+2012,NBA,Eastern Conf First Round,Philadelphia 76ers (8),4,Chicago Bulls (1),2,CHI (-1400),PHI (+900)
+2012,NBA,Eastern Conf First Round,Miami Heat (2),4,New York Knicks (7),1,MIA (-900),NYK (+650)
+2012,NBA,Eastern Conf First Round,Indiana Pacers (3),4,Orlando Magic (6),1,IND (-800),ORL (+600)
+2012,NBA,Eastern Conf First Round,Boston Celtics (4),4,Atlanta Hawks (5),2,BOS (-190),ATL (+160)
+2012,NBA,Western Conf First Round,San Antonio Spurs (1),4,Utah Jazz (8),0,SAS (-2500),UTA (+1450)
+2012,NBA,Western Conf First Round,Oklahoma City Thunder (2),4,Dallas Mavericks (7),0,OKC (-500),DAL (+400)
+2012,NBA,Western Conf First Round,Los Angeles Lakers (3),4,Denver Nuggets (6),3,LAL (-240),DEN (+195)
+2012,NBA,Western Conf First Round,Los Angeles Clippers (5),4,Memphis Grizzlies (4),3,MEM (-200),LAC (+170)
+2012,NBA,Eastern Conf Semifinals,Miami Heat (2),4,Indiana Pacers (3),2,MIA (-950),IND (+625)
+2012,NBA,Eastern Conf Semifinals,Boston Celtics (4),4,Philadelphia 76ers (8),3,BOS (-205),PHI (+175)
+2012,NBA,Western Conf Semifinals,San Antonio Spurs (1),4,Los Angeles Clippers (5),0,SAS (-2500),LAC (+1000)
+2012,NBA,Western Conf Semifinals,Oklahoma City Thunder (2),4,Los Angeles Lakers (3),1,OKC (-450),LAL (+350)
+2012,NBA,Western Conf Finals,Oklahoma City Thunder (2),4,San Antonio Spurs (1),2,SAS (-205),OKC (+175)
+2012,NBA,Eastern Conf Finals,Miami Heat (2),4,Boston Celtics (4),3,MIA (-530),BOS (+400)
+2012,NBA,Finals,Miami Heat (2),4,Oklahoma City Thunder (2),1,OKC (-175),MIA (+155)
+2011,NBA,Eastern Conf First Round,Chicago Bulls (1),4,Indiana Pacers (8),1,CHI (-4000),IND (+1200)
+2011,NBA,Eastern Conf First Round,Miami Heat (2),4,Philadelphia 76ers (7),1,MIA (-2500),PHI (+1000)
+2011,NBA,Eastern Conf First Round,Boston Celtics (3),4,New York Knicks (6),0,BOS (-350),NYK (+250)
+2011,NBA,Eastern Conf First Round,Atlanta Hawks (5),4,Orlando Magic (4),2,ORL (-650),ATL (+425)
+2011,NBA,Western Conf First Round,Memphis Grizzlies (8),4,San Antonio Spurs (1),2,SAS (-390),MEM (+280)
+2011,NBA,Western Conf First Round,Los Angeles Lakers (2),4,New Orleans Hornets (7),2,LAL (-2500),NOH (+1000)
+2011,NBA,Western Conf First Round,Dallas Mavericks (3),4,Portland Trail Blazers (6),2,DAL (-200),POR (+160)
+2011,NBA,Western Conf First Round,Oklahoma City Thunder (4),4,Denver Nuggets (5),1,OKC (-220),DEN (+170)
+2011,NBA,Eastern Conf Semifinals,Chicago Bulls (1),4,Atlanta Hawks (5),2,CHI (-800),ATL (+550)
+2011,NBA,Eastern Conf Semifinals,Miami Heat (2),4,Boston Celtics (3),1,MIA (-190),BOS (+165)
+2011,NBA,Western Conf Semifinals,Dallas Mavericks (3),4,Los Angeles Lakers (2),0,LAL (-360),DAL (+280)
+2011,NBA,Western Conf Semifinals,Oklahoma City Thunder (4),4,Memphis Grizzlies (8),3,OKC (-350),MEM (+275)
+2011,NBA,Eastern Conf Finals,Miami Heat (2),4,Chicago Bulls (1),1,MIA (-190),CHI (+160)
+2011,NBA,Western Conf Finals,Dallas Mavericks (3),4,Oklahoma City Thunder (4),1,DAL (-240),OKC (+200)
+2011,NBA,Finals,Dallas Mavericks (3),4,Miami Heat (2),2,MIA (-175),DAL (+155)
+2010,NBA,Eastern Conf First Round,Cleveland Cavaliers (1),4,Chicago Bulls (8),1,CLE (-3000),CHI (+1400)
+2010,NBA,Eastern Conf First Round,Orlando Magic (2),4,Charlotte Bobcats (7),0,ORL (-1000),CHA (+650)
+2010,NBA,Eastern Conf First Round,Atlanta Hawks (3),4,Milwaukee Bucks (6),3,ATL (-750),MIL (+550)
+2010,NBA,Eastern Conf First Round,Boston Celtics (4),4,Miami Heat (5),1,BOS (-175),MIA (+155)
+2010,NBA,Western Conf First Round,Los Angeles Lakers (1),4,Oklahoma City Thunder (8),2,LAL (-800),OKC (+600)
+2010,NBA,Western Conf First Round,San Antonio Spurs (7),4,Dallas Mavericks (2),2,DAL (-150),SAS (+130)
+2010,NBA,Western Conf First Round,Phoenix Suns (3),4,Portland Trail Blazers (6),2,PHO (-500),POR (+400)
+2010,NBA,Western Conf First Round,Utah Jazz (5),4,Denver Nuggets (4),2,DEN (-175),UTA (+150)
+2010,NBA,Eastern Conf Semifinals,Boston Celtics (4),4,Cleveland Cavaliers (1),2,CLE (-480),BOS (+380)
+2010,NBA,Eastern Conf Semifinals,Orlando Magic (2),4,Atlanta Hawks (3),0,ORL (-800),ATL (+550)
+2010,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Utah Jazz (5),0,LAL (-420),UTA (+310)
+2010,NBA,Western Conf Semifinals,Phoenix Suns (3),4,San Antonio Spurs (7),0,PHO (-140),SAS (+120)
+2010,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Phoenix Suns (3),2,LAL (-340),PHO (+270)
+2010,NBA,Eastern Conf Finals,Boston Celtics (4),4,Orlando Magic (2),2,ORL (-260),BOS (+220)
+2010,NBA,Finals,Los Angeles Lakers (1),4,Boston Celtics (4),3,LAL (-190),BOS (+165)
+2009,NBA,Eastern Conf First Round,Cleveland Cavaliers (1),4,Detroit Pistons (8),0,CLE (-5000),DET (+3000)
+2009,NBA,Eastern Conf First Round,Boston Celtics (2),4,Chicago Bulls (7),3,BOS (-545),CHI (+405)
+2009,NBA,Eastern Conf First Round,Orlando Magic (3),4,Philadelphia 76ers (6),2,ORL (-1400),PHI (+800)
+2009,NBA,Eastern Conf First Round,Atlanta Hawks (4),4,Miami Heat (5),3,ATL (-145),MIA (+125)
+2009,NBA,Western Conf First Round,Los Angeles Lakers (1),4,Utah Jazz (8),1,LAL (-2000),UTA (+1200)
+2009,NBA,Western Conf First Round,Denver Nuggets (2),4,New Orleans Hornets (7),1,DEN (-210),NOH (+175)
+2009,NBA,Western Conf First Round,Dallas Mavericks (6),4,San Antonio Spurs (3),1,SAS (-190),DAL (+160)
+2009,NBA,Western Conf First Round,Houston Rockets (5),4,Portland Trail Blazers (4),2,POR (-175),HOU (+150)
+2009,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Houston Rockets (5),3,LAL (-1100),HOU (+700)
+2009,NBA,Western Conf Semifinals,Denver Nuggets (2),4,Dallas Mavericks (6),1,DEN (-240),DAL (+200)
+2009,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (1),4,Atlanta Hawks (4),0,CLE (-2450),ATL (+1000)
+2009,NBA,Eastern Conf Semifinals,Orlando Magic (3),4,Boston Celtics (2),3,BOS (-120),ORL (+100)
+2009,NBA,Eastern Conf Finals,Orlando Magic (3),4,Cleveland Cavaliers (1),2,CLE (-700),ORL (+550)
+2009,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Denver Nuggets (2),2,LAL (-250),DEN (+210)
+2009,NBA,Finals,Los Angeles Lakers (1),4,Orlando Magic (3),1,LAL (-280),ORL (+240)
+2008,NBA,Eastern Conf First Round,Boston Celtics (1),4,Atlanta Hawks (8),3,BOS (-8000),ATL (+4000)
+2008,NBA,Eastern Conf First Round,Detroit Pistons (2),4,Philadelphia 76ers (7),2,DET (-1300),PHI (+850)
+2008,NBA,Eastern Conf First Round,Orlando Magic (3),4,Toronto Raptors (6),1,ORL (-310),TOR (+260)
+2008,NBA,Eastern Conf First Round,Cleveland Cavaliers (4),4,Washington Wizards (5),2,CLE (-115),WAS (-105)
+2008,NBA,Western Conf First Round,Los Angeles Lakers (1),4,Denver Nuggets (8),0,LAL (-560),DEN (+460)
+2008,NBA,Western Conf First Round,New Orleans Hornets (2),4,Dallas Mavericks (7),1,NOH (-145),DAL (+125)
+2008,NBA,Western Conf First Round,San Antonio Spurs (3),4,Phoenix Suns (6),1,SAS (-140),PHO (+120)
+2008,NBA,Western Conf First Round,Utah Jazz (4),4,Houston Rockets (5),2,UTA (-215),HOU (+185)
+2008,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Cleveland Cavaliers (4),3,BOS (-900),CLE (+600)
+2008,NBA,Eastern Conf Semifinals,Detroit Pistons (2),4,Orlando Magic (3),1,DET (-305),ORL (+255)
+2008,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Utah Jazz (4),2,LAL (-350),UTA (+290)
+2008,NBA,Western Conf Semifinals,San Antonio Spurs (3),4,New Orleans Hornets (2),3,SAS (-135),NOH (+115)
+2008,NBA,Eastern Conf Finals,Boston Celtics (1),4,Detroit Pistons (2),2,BOS (-135),DET (+115)
+2008,NBA,Western Conf Finals,Los Angeles Lakers (1),4,San Antonio Spurs (3),1,LAL (-250),SAS (+210)
+2008,NBA,Finals,Boston Celtics (1),4,Los Angeles Lakers (1),2,LAL (-180),BOS (+160)
+2007,NBA,Eastern Conf First Round,Chicago Bulls (5),4,Miami Heat (4),0,CHI (-140),MIA (+120)
+2007,NBA,Eastern Conf First Round,Cleveland Cavaliers (2),4,Washington Wizards (7),0,CLE (-2400),WAS (+1600)
+2007,NBA,Eastern Conf First Round,Detroit Pistons (1),4,Orlando Magic (8),0,DET (-2200),ORL (+1400)
+2007,NBA,Eastern Conf First Round,New Jersey Nets (6),4,Toronto Raptors (3),2,TOR (-165),NJN (+145)
+2007,NBA,Western Conf First Round,Golden State Warriors (8),4,Dallas Mavericks (1),2,DAL (-1800),GSW (+1200)
+2007,NBA,Western Conf First Round,Phoenix Suns (2),4,Los Angeles Lakers (7),1,PHO (-1600),LAL (+1000)
+2007,NBA,Western Conf First Round,San Antonio Spurs (3),4,Denver Nuggets (6),1,SAS (-750),DEN (+550)
+2007,NBA,Western Conf First Round,Utah Jazz (4),4,Houston Rockets (5),3,HOU (-240),UTA (+200)
+2007,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (2),4,New Jersey Nets (6),2,CLE (-260),NJN (+220)
+2007,NBA,Eastern Conf Semifinals,Detroit Pistons (1),4,Chicago Bulls (5),2,DET (-175),CHI (+155)
+2007,NBA,Western Conf Semifinals,San Antonio Spurs (3),4,Phoenix Suns (2),2,PHO (-150),SAS (+130)
+2007,NBA,Western Conf Semifinals,Utah Jazz (4),4,Golden State Warriors (8),1,UTA (-135),GSW (+115)
+2007,NBA,Eastern Conf Finals,Cleveland Cavaliers (2),4,Detroit Pistons (1),2,DET (-330),CLE (+270)
+2007,NBA,Western Conf Finals,San Antonio Spurs (3),4,Utah Jazz (4),1,SAS (-440),UTA (+350)
+2007,NBA,Finals,San Antonio Spurs (3),4,Cleveland Cavaliers (2),0,SAS (-450),CLE (+360)
+2006,NBA,Eastern Conf First Round,Cleveland Cavaliers (4),4,Washington Wizards (5),2,CLE (-180),WAS (+160)
+2006,NBA,Eastern Conf First Round,Detroit Pistons (1),4,Milwaukee Bucks (8),1,DET (-5500),MIL (+3250)
+2006,NBA,Eastern Conf First Round,Miami Heat (2),4,Chicago Bulls (7),2,MIA (-850),CHI (+625)
+2006,NBA,Eastern Conf First Round,New Jersey Nets (3),4,Indiana Pacers (6),2,NJN (-325),IND (+275)
+2006,NBA,Western Conf First Round,Dallas Mavericks (4),4,Memphis Grizzlies (5),0,DAL (-725),MEM (+525)
+2006,NBA,Western Conf First Round,Los Angeles Clippers (6),4,Denver Nuggets (3),1,LAC (-185),DEN (+145)
+2006,NBA,Western Conf First Round,Phoenix Suns (2),4,Los Angeles Lakers (7),3,PHO (-360),LAL (+300)
+2006,NBA,Western Conf First Round,San Antonio Spurs (1),4,Sacramento Kings (8),2,SAS (-1050),SAC (+725)
+2006,NBA,Eastern Conf Semifinals,Detroit Pistons (1),4,Cleveland Cavaliers (4),3,DET (-2000),CLE (+1200)
+2006,NBA,Eastern Conf Semifinals,Miami Heat (2),4,New Jersey Nets (3),1,MIA (-190),NJN (+160)
+2006,NBA,Western Conf Semifinals,Dallas Mavericks (4),4,San Antonio Spurs (1),3,SAS (-180),DAL (+150)
+2006,NBA,Western Conf Semifinals,Phoenix Suns (2),4,Los Angeles Clippers (6),3,PHO (-205),LAC (+185)
+2006,NBA,Eastern Conf Finals,Miami Heat (2),4,Detroit Pistons (1),2,DET (-245),MIA (+205)
+2006,NBA,Western Conf Finals,Dallas Mavericks (4),4,Phoenix Suns (2),2,DAL (-355),PHO (+295)
+2006,NBA,Finals,Miami Heat (2),4,Dallas Mavericks (4),2,DAL (-150),MIA (+130)
+2005,NBA,Eastern Conf First Round,Detroit Pistons (2),4,Philadelphia 76ers (7),1,DET (-1200),PHI (+800)
+2005,NBA,Eastern Conf First Round,Indiana Pacers (6),4,Boston Celtics (3),3,BOS (-135),IND (+115)
+2005,NBA,Eastern Conf First Round,Miami Heat (1),4,New Jersey Nets (8),0,MIA (-1200),NJN (+800)
+2005,NBA,Eastern Conf First Round,Washington Wizards (5),4,Chicago Bulls (4),2,CHI (-145),WAS (+125)
+2005,NBA,Western Conf First Round,Dallas Mavericks (4),4,Houston Rockets (5),3,DAL (-220),HOU (+180)
+2005,NBA,Western Conf First Round,Phoenix Suns (1),4,Memphis Grizzlies (8),0,PHO (-1200),MEM (+800)
+2005,NBA,Western Conf First Round,San Antonio Spurs (2),4,Denver Nuggets (7),1,SAS (-500),DEN (+400)
+2005,NBA,Western Conf First Round,Seattle SuperSonics (3),4,Sacramento Kings (6),1,SAC (-120),SEA (+100)
+2005,NBA,Eastern Conf Semifinals,Detroit Pistons (2),4,Indiana Pacers (6),2,DET (-1100),IND (+700)
+2005,NBA,Eastern Conf Semifinals,Miami Heat (1),4,Washington Wizards (5),0,MIA (-1800),WAS (+1200)
+2005,NBA,Western Conf Semifinals,Phoenix Suns (1),4,Dallas Mavericks (4),2,PHO (-300),DAL (+220)
+2005,NBA,Western Conf Semifinals,San Antonio Spurs (2),4,Seattle SuperSonics (3),2,SAS (-1200),SEA (+800)
+2005,NBA,Eastern Conf Finals,Detroit Pistons (2),4,Miami Heat (1),3,MIA (-130),DET (+110)
+2005,NBA,Western Conf Finals,San Antonio Spurs (2),4,Phoenix Suns (1),1,SAS (-160),PHO (+140)
+2005,NBA,Finals,San Antonio Spurs (2),4,Detroit Pistons (2),3,SAS (-250),DET (+200)
+2004,NBA,Eastern Conf First Round,Detroit Pistons (3),4,Milwaukee Bucks (6),1,DET (-1780),MIL (+1430)
+2004,NBA,Eastern Conf First Round,Indiana Pacers (1),4,Boston Celtics (8),0,IND (-1980),BOS (+1520)
+2004,NBA,Eastern Conf First Round,Miami Heat (4),4,New Orleans Hornets (5),3,MIA (-277),NOH (+243)
+2004,NBA,Eastern Conf First Round,New Jersey Nets (2),4,New York Knicks (7),0,NJN (-580),NYK (+500)
+2004,NBA,Western Conf First Round,Los Angeles Lakers (2),4,Houston Rockets (7),1,LAL (-1080),HOU (+920)
+2004,NBA,Western Conf First Round,Minnesota Timberwolves (1),4,Denver Nuggets (8),1,MIN (-1920),DEN (+1540)
+2004,NBA,Western Conf First Round,Sacramento Kings (4),4,Dallas Mavericks (5),1,SAC (-164),DAL (+148)
+2004,NBA,Western Conf First Round,San Antonio Spurs (3),4,Memphis Grizzlies (6),0,SAS (-1080),MEM (+920)
+2004,NBA,Eastern Conf Semifinals,Detroit Pistons (3),4,New Jersey Nets (2),3,DET (-210),NJN (+180)
+2004,NBA,Eastern Conf Semifinals,Indiana Pacers (1),4,Miami Heat (4),2,IND (-2300),MIA (+1600)
+2004,NBA,Western Conf Semifinals,Los Angeles Lakers (2),4,San Antonio Spurs (3),2,SAS (-140),LAL (+120)
+2004,NBA,Western Conf Semifinals,Minnesota Timberwolves (1),4,Sacramento Kings (4),3,MIN (-160),SAC (+140)
+2004,NBA,Eastern Conf Finals,Detroit Pistons (3),4,Indiana Pacers (1),2,IND (-165),DET (+145)
+2004,NBA,Western Conf Finals,Los Angeles Lakers (2),4,Minnesota Timberwolves (1),2,LAL (-330),MIN (+270)
+2004,NBA,Finals,Detroit Pistons (3),4,Los Angeles Lakers (2),1,LAL (-700),DET (+500)
+2003,NBA,Eastern Conf First Round,Boston Celtics (6),4,Indiana Pacers (3),2,IND (-340),BOS (+280)
+2003,NBA,Eastern Conf First Round,Detroit Pistons (1),4,Orlando Magic (8),3,DET (-220),ORL (+180)
+2003,NBA,Eastern Conf First Round,New Jersey Nets (2),4,Milwaukee Bucks (7),2,NJN (-280),MIL (+230)
+2003,NBA,Eastern Conf First Round,Philadelphia 76ers (4),4,New Orleans Hornets (5),2,PHI (-179),NOH (+150)
+2003,NBA,Western Conf First Round,Dallas Mavericks (3),4,Portland Trail Blazers (6),3,DAL (-400),POR (+320)
+2003,NBA,Western Conf First Round,Los Angeles Lakers (5),4,Minnesota Timberwolves (4),2,LAL (-400),MIN (+320)
+2003,NBA,Western Conf First Round,Sacramento Kings (2),4,Utah Jazz (7),1,SAC (-1400),UTA (+1000)
+2003,NBA,Western Conf First Round,San Antonio Spurs (1),4,Phoenix Suns (8),2,SAS (-1000),PHO (+700)
+2003,NBA,Eastern Conf Semifinals,Detroit Pistons (1),4,Philadelphia 76ers (4),2,PHI (-150),DET (+130)
+2003,NBA,Eastern Conf Semifinals,New Jersey Nets (2),4,Boston Celtics (6),0,NJN (-380),BOS (+320)
+2003,NBA,Western Conf Semifinals,Dallas Mavericks (3),4,Sacramento Kings (2),3,SAC (-280),DAL (+240)
+2003,NBA,Western Conf Semifinals,San Antonio Spurs (1),4,Los Angeles Lakers (5),2,LAL (-145),SAS (+125)
+2003,NBA,Eastern Conf Finals,New Jersey Nets (2),4,Detroit Pistons (1),0,NJN (-300),DET (+250)
+2003,NBA,Western Conf Finals,San Antonio Spurs (1),4,Dallas Mavericks (3),2,SAS (-380),DAL (+320)
+2003,NBA,Finals,San Antonio Spurs (1),4,New Jersey Nets (2),2,SAS (-330),NJN (+260)
+2002,NBA,Eastern Conf First Round,Boston Celtics (3),3,Philadelphia 76ers (6),2,BOS (-200),PHI (+170)
+2002,NBA,Eastern Conf First Round,Charlotte Hornets (4),3,Orlando Magic (5),1,CHH (-300),ORL (+250)
+2002,NBA,Eastern Conf First Round,Detroit Pistons (2),3,Toronto Raptors (7),2,DET (-450),TOR (+325)
+2002,NBA,Eastern Conf First Round,New Jersey Nets (1),3,Indiana Pacers (8),2,NJN (-400),IND (+300)
+2002,NBA,Western Conf First Round,Dallas Mavericks (4),3,Minnesota Timberwolves (5),0,DAL (-500),MIN (+400)
+2002,NBA,Western Conf First Round,Los Angeles Lakers (3),3,Portland Trail Blazers (6),0,LAL (-600),POR (+450)
+2002,NBA,Western Conf First Round,Sacramento Kings (1),3,Utah Jazz (8),1,SAC (-2000),UTA (+1400)
+2002,NBA,Western Conf First Round,San Antonio Spurs (2),3,Seattle SuperSonics (7),2,SAS (-750),SEA (+550)
+2002,NBA,Eastern Conf Semifinals,Boston Celtics (3),4,Detroit Pistons (2),1,DET (-125),BOS (+105)
+2002,NBA,Eastern Conf Semifinals,New Jersey Nets (1),4,Charlotte Hornets (4),1,NJN (-160),CHH (+140)
+2002,NBA,Western Conf Semifinals,Los Angeles Lakers (3),4,San Antonio Spurs (2),1,LAL (-650),SAS (+450)
+2002,NBA,Western Conf Semifinals,Sacramento Kings (1),4,Dallas Mavericks (4),1,SAC (-155),DAL (+135)
+2002,NBA,Eastern Conf Finals,New Jersey Nets (1),4,Boston Celtics (3),2,NJN (-135),BOS (+115)
+2002,NBA,Western Conf Finals,Los Angeles Lakers (3),4,Sacramento Kings (1),3,LAL (-230),SAC (+190)
+2002,NBA,Finals,Los Angeles Lakers (3),4,New Jersey Nets (1),0,LAL (-750),NJN (+550)
+2001,NBA,Eastern Conf First Round,Charlotte Hornets (6),3,Miami Heat (3),0,MIA (-180),CHH (+160)
+2001,NBA,Eastern Conf First Round,Milwaukee Bucks (2),3,Orlando Magic (7),1,MIL (-500),ORL (+350)
+2001,NBA,Eastern Conf First Round,Philadelphia 76ers (1),3,Indiana Pacers (8),1,PHI (-600),IND (+400)
+2001,NBA,Eastern Conf First Round,Toronto Raptors (5),3,New York Knicks (4),2,NYK (-170),TOR (+150)
+2001,NBA,Western Conf First Round,Dallas Mavericks (5),3,Utah Jazz (4),2,UTA (-180),DAL (+160)
+2001,NBA,Western Conf First Round,Los Angeles Lakers (2),3,Portland Trail Blazers (7),0,LAL (-400),POR (+300)
+2001,NBA,Western Conf First Round,Sacramento Kings (3),3,Phoenix Suns (6),1,SAC (-400),PHO (+300)
+2001,NBA,Western Conf First Round,San Antonio Spurs (1),3,Minnesota Timberwolves (8),1,SAS (-900),MIN (+600)
+2001,NBA,Eastern Conf Semifinals,Milwaukee Bucks (2),4,Charlotte Hornets (6),3,MIL (-230),CHH (+190)
+2001,NBA,Eastern Conf Semifinals,Philadelphia 76ers (1),4,Toronto Raptors (5),3,PHI (-340),TOR (+280)
+2001,NBA,Western Conf Semifinals,Los Angeles Lakers (2),4,Sacramento Kings (3),0,LAL (-360),SAC (+290)
+2001,NBA,Western Conf Semifinals,San Antonio Spurs (1),4,Dallas Mavericks (5),1,SAS (-650),DAL (+450)
+2001,NBA,Eastern Conf Finals,Philadelphia 76ers (1),4,Milwaukee Bucks (2),3,PHI (-180),MIL (+160)
+2001,NBA,Western Conf Finals,Los Angeles Lakers (2),4,San Antonio Spurs (1),0,LAL (-145),SAS (+125)
+2001,NBA,Finals,Los Angeles Lakers (2),4,Philadelphia 76ers (1),1,LAL (-2000),PHI (+1600)
+2000,NBA,Eastern Conf First Round,Indiana Pacers (1),3,Milwaukee Bucks (8),2,IND (-800),MIL (+550)
+2000,NBA,Eastern Conf First Round,Miami Heat (2),3,Detroit Pistons (7),0,,
+2000,NBA,Eastern Conf First Round,New York Knicks (3),3,Toronto Raptors (6),0,NYK (-230),TOR (+190)
+2000,NBA,Eastern Conf First Round,Philadelphia 76ers (5),3,Charlotte Hornets (4),1,CHH (-140),PHI (+120)
+2000,NBA,Western Conf First Round,Los Angeles Lakers (1),3,Sacramento Kings (8),2,LAL (-2000),SAC (+1200)
+2000,NBA,Western Conf First Round,Phoenix Suns (5),3,San Antonio Spurs (4),1,,
+2000,NBA,Western Conf First Round,Portland Trail Blazers (3),3,Minnesota Timberwolves (6),1,POR (-330),MIN (+250)
+2000,NBA,Western Conf First Round,Utah Jazz (2),3,Seattle SuperSonics (7),2,UTA (-650),SEA (+450)
+2000,NBA,Eastern Conf Semifinals,Indiana Pacers (1),4,Philadelphia 76ers (5),2,IND (-185),PHI (+165)
+2000,NBA,Eastern Conf Semifinals,New York Knicks (3),4,Miami Heat (2),3,MIA (-155),NYK (+135)
+2000,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Phoenix Suns (5),1,LAL (-2200),PHO (+1500)
+2000,NBA,Western Conf Semifinals,Portland Trail Blazers (3),4,Utah Jazz (2),1,POR (-240),UTA (+190)
+2000,NBA,Eastern Conf Finals,Indiana Pacers (1),4,New York Knicks (3),2,IND (-260),NYK (+220)
+2000,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Portland Trail Blazers (3),3,LAL (-340),POR (+280)
+2000,NBA,Finals,Los Angeles Lakers (1),4,Indiana Pacers (1),2,LAL (-800),IND (+550)
+1999,NBA,Eastern Conf First Round,Atlanta Hawks (4),3,Detroit Pistons (5),2,ATL (-160),DET (+140)
+1999,NBA,Eastern Conf First Round,Indiana Pacers (2),3,Milwaukee Bucks (7),0,IND (-400),MIL (+300)
+1999,NBA,Eastern Conf First Round,New York Knicks (8),3,Miami Heat (1),2,MIA (-280),NYK (+230)
+1999,NBA,Eastern Conf First Round,Philadelphia 76ers (6),3,Orlando Magic (3),1,ORL (-210),PHI (+175)
+1999,NBA,Western Conf First Round,Los Angeles Lakers (4),3,Houston Rockets (5),1,LAL (-165),HOU (+145)
+1999,NBA,Western Conf First Round,Portland Trail Blazers (2),3,Phoenix Suns (7),0,POR (-500),PHO (+350)
+1999,NBA,Western Conf First Round,San Antonio Spurs (1),3,Minnesota Timberwolves (8),1,SAS (-1500),MIN (+1000)
+1999,NBA,Western Conf First Round,Utah Jazz (3),3,Sacramento Kings (6),2,UTA (-1000),SAC (+700)
+1999,NBA,Eastern Conf Semifinals,Indiana Pacers (2),4,Philadelphia 76ers (6),0,IND (-400),PHI (+300)
+1999,NBA,Eastern Conf Semifinals,New York Knicks (8),4,Atlanta Hawks (4),0,ATL (-135),NYK (+115)
+1999,NBA,Western Conf Semifinals,Portland Trail Blazers (2),4,Utah Jazz (3),2,UTA (-125),POR (+105)
+1999,NBA,Western Conf Semifinals,San Antonio Spurs (1),4,Los Angeles Lakers (4),0,SAS (-220),LAL (+180)
+1999,NBA,Eastern Conf Finals,New York Knicks (8),4,Indiana Pacers (2),2,IND (-240),NYK (+200)
+1999,NBA,Western Conf Finals,San Antonio Spurs (1),4,Portland Trail Blazers (2),0,SAS (-200),POR (+170)
+1999,NBA,Finals,San Antonio Spurs (1),4,New York Knicks (8),1,SAS (-900),NYK (+600)
+1998,NBA,Eastern Conf First Round,Charlotte Hornets (4),3,Atlanta Hawks (5),1,CHH (-120),ATL (+100)
+1998,NBA,Eastern Conf First Round,Chicago Bulls (1),3,New Jersey Nets (8),0,CHI (-2500),NJN (+1800)
+1998,NBA,Eastern Conf First Round,Indiana Pacers (3),3,Cleveland Cavaliers (6),1,IND (-450),CLE (+325)
+1998,NBA,Eastern Conf First Round,New York Knicks (7),3,Miami Heat (2),2,MIA (-500),NYK (+350)
+1998,NBA,Western Conf First Round,Los Angeles Lakers (3),3,Portland Trail Blazers (6),1,LAL (-550),POR (+375)
+1998,NBA,Western Conf First Round,San Antonio Spurs (5),3,Phoenix Suns (4),1,PHO (-135),SAS (+115)
+1998,NBA,Western Conf First Round,Seattle SuperSonics (2),3,Minnesota Timberwolves (7),2,SEA (-2000),MIN (+1400)
+1998,NBA,Western Conf First Round,Utah Jazz (1),3,Houston Rockets (8),2,UTA (-850),HOU (+525)
+1998,NBA,Eastern Conf Semifinals,Chicago Bulls (1),4,Charlotte Hornets (4),1,CHI (-2000),CHH (+1400)
+1998,NBA,Eastern Conf Semifinals,Indiana Pacers (3),4,New York Knicks (7),1,IND (-1100),NYK (+700)
+1998,NBA,Western Conf Semifinals,Los Angeles Lakers (3),4,Seattle SuperSonics (2),1,LAL (-115),SEA (-105)
+1998,NBA,Western Conf Semifinals,Utah Jazz (1),4,San Antonio Spurs (5),1,UTA (-270),SAS (+210)
+1998,NBA,Eastern Conf Finals,Chicago Bulls (1),4,Indiana Pacers (3),3,CHI (-600),IND (+400)
+1998,NBA,Western Conf Finals,Utah Jazz (1),4,Los Angeles Lakers (3),0,LAL (-130),UTA (+110)
+1998,NBA,Finals,Chicago Bulls (1),4,Utah Jazz (1),2,CHI (-125),UTA (+105)
+1997,NBA,Eastern Conf First Round,Atlanta Hawks (4),3,Detroit Pistons (5),2,ATL (-170),DET (+150)
+1997,NBA,Eastern Conf First Round,Chicago Bulls (1),3,Washington Bullets (8),0,CHI (-2500),WSB (+1800)
+1997,NBA,Eastern Conf First Round,Miami Heat (2),3,Orlando Magic (7),2,MIA (-400),ORL (+300)
+1997,NBA,Eastern Conf First Round,New York Knicks (3),3,Charlotte Hornets (6),0,NYK (-250),CHH (+200)
+1997,NBA,Western Conf First Round,Houston Rockets (3),3,Minnesota Timberwolves (6),0,HOU (-1300),MIN (+800)
+1997,NBA,Western Conf First Round,Los Angeles Lakers (4),3,Portland Trail Blazers (5),1,LAL (-330),POR (+250)
+1997,NBA,Western Conf First Round,Seattle SuperSonics (2),3,Phoenix Suns (7),2,SEA (-650),PHO (+450)
+1997,NBA,Western Conf First Round,Utah Jazz (1),3,Los Angeles Clippers (8),0,UTA (-3300),LAC (+2200)
+1997,NBA,Eastern Conf Semifinals,Chicago Bulls (1),4,Atlanta Hawks (4),1,CHI (-1700),ATL (+1100)
+1997,NBA,Eastern Conf Semifinals,Miami Heat (2),4,New York Knicks (3),3,MIA (-145),NYK (+125)
+1997,NBA,Western Conf Semifinals,Houston Rockets (3),4,Seattle SuperSonics (2),3,HOU (-130),SEA (+110)
+1997,NBA,Western Conf Semifinals,Utah Jazz (1),4,Los Angeles Lakers (4),1,UTA (-270),LAL (+210)
+1997,NBA,Eastern Conf Finals,Chicago Bulls (1),4,Miami Heat (2),1,CHI (-1700),MIA (+1100)
+1997,NBA,Western Conf Finals,Utah Jazz (1),4,Houston Rockets (3),2,UTA (-220),HOU (+180)
+1997,NBA,Finals,Chicago Bulls (1),4,Utah Jazz (1),2,CHI (-600),UTA (+400)
+1996,NBA,Eastern Conf First Round,Atlanta Hawks (6),3,Indiana Pacers (3),2,IND (-140),ATL (+120)
+1996,NBA,Eastern Conf First Round,Chicago Bulls (1),3,Miami Heat (8),0,CHI (-2500),MIA (+1800)
+1996,NBA,Eastern Conf First Round,New York Knicks (5),3,Cleveland Cavaliers (4),0,CLE (-185),NYK (+165)
+1996,NBA,Eastern Conf First Round,Orlando Magic (2),3,Detroit Pistons (7),0,ORL (-1500),DET (+1000)
+1996,NBA,Western Conf First Round,Houston Rockets (5),3,Los Angeles Lakers (4),1,LAL (-145),HOU (+125)
+1996,NBA,Western Conf First Round,San Antonio Spurs (2),3,Phoenix Suns (7),1,SAS (-500),PHO (+350)
+1996,NBA,Western Conf First Round,Seattle SuperSonics (1),3,Sacramento Kings (8),1,SEA (-2200),SAC (+1500)
+1996,NBA,Western Conf First Round,Utah Jazz (3),3,Portland Trail Blazers (6),2,UTA (-400),POR (+300)
+1996,NBA,Eastern Conf Semifinals,Chicago Bulls (1),4,New York Knicks (5),1,CHI (-3500),NYK (+2200)
+1996,NBA,Eastern Conf Semifinals,Orlando Magic (2),4,Atlanta Hawks (6),1,,
+1996,NBA,Western Conf Semifinals,Seattle SuperSonics (1),4,Houston Rockets (5),0,SEA (-200),HOU (+170)
+1996,NBA,Western Conf Semifinals,Utah Jazz (3),4,San Antonio Spurs (2),2,,
+1996,NBA,Eastern Conf Finals,Chicago Bulls (1),4,Orlando Magic (2),0,CHI (-500),ORL (+350)
+1996,NBA,Western Conf Finals,Seattle SuperSonics (1),4,Utah Jazz (3),3,SEA (-270),UTA (+210)
+1996,NBA,Finals,Chicago Bulls (1),4,Seattle SuperSonics (1),2,CHI (-950),SEA (+650)
+1995,NBA,Eastern Conf First Round,Chicago Bulls (5),3,Charlotte Hornets (4),1,CHI (-360),CHH (+280)
+1995,NBA,Eastern Conf First Round,Indiana Pacers (2),3,Atlanta Hawks (7),0,IND (-360),ATL (+280)
+1995,NBA,Eastern Conf First Round,New York Knicks (3),3,Cleveland Cavaliers (6),1,NYK (-400),CLE (+300)
+1995,NBA,Eastern Conf First Round,Orlando Magic (1),3,Boston Celtics (8),1,ORL (-950),BOS (+650)
+1995,NBA,Western Conf First Round,Houston Rockets (6),3,Utah Jazz (3),2,UTA (-270),HOU (+210)
+1995,NBA,Western Conf First Round,Los Angeles Lakers (5),3,Seattle SuperSonics (4),1,SEA (-400),LAL (+300)
+1995,NBA,Western Conf First Round,Phoenix Suns (2),3,Portland Trail Blazers (7),0,PHO (-400),POR (+300)
+1995,NBA,Western Conf First Round,San Antonio Spurs (1),3,Denver Nuggets (8),0,SAS (-600),DEN (+400)
+1995,NBA,Eastern Conf Semifinals,Indiana Pacers (2),4,New York Knicks (3),3,NYK (-140),IND (+120)
+1995,NBA,Eastern Conf Semifinals,Orlando Magic (1),4,Chicago Bulls (5),2,CHI (-185),ORL (+165)
+1995,NBA,Western Conf Semifinals,Houston Rockets (6),4,Phoenix Suns (2),3,PHO (-270),HOU (+210)
+1995,NBA,Western Conf Semifinals,San Antonio Spurs (1),4,Los Angeles Lakers (5),2,SAS (-600),LAL (+400)
+1995,NBA,Eastern Conf Finals,Orlando Magic (1),4,Indiana Pacers (2),3,ORL (-200),IND (+170)
+1995,NBA,Western Conf Finals,Houston Rockets (6),4,San Antonio Spurs (1),2,SAS (-330),HOU (+250)
+1995,NBA,Finals,Houston Rockets (6),4,Orlando Magic (1),0,ORL (-150),HOU (+130)
+1994,NBA,Eastern Conf First Round,Atlanta Hawks (1),3,Miami Heat (8),2,ATL (-360),MIA (+280)
+1994,NBA,Eastern Conf First Round,Chicago Bulls (3),3,Cleveland Cavaliers (6),0,CHI (-250),CLE (+200)
+1994,NBA,Eastern Conf First Round,Indiana Pacers (5),3,Orlando Magic (4),0,ORL (-170),IND (+150)
+1994,NBA,Eastern Conf First Round,New York Knicks (2),3,New Jersey Nets (7),1,NYK (-360),NJN (+280)
+1994,NBA,Western Conf First Round,Denver Nuggets (8),3,Seattle SuperSonics (1),2,SEA (-2000),DEN (+1400)
+1994,NBA,Western Conf First Round,Houston Rockets (2),3,Portland Trail Blazers (7),1,HOU (-270),POR (+210)
+1994,NBA,Western Conf First Round,Phoenix Suns (3),3,Golden State Warriors (6),0,PHO (-360),GSW (+280)
+1994,NBA,Western Conf First Round,Utah Jazz (5),3,San Antonio Spurs (4),1,SAS (-200),UTA (+170)
+1994,NBA,Eastern Conf Semifinals,Indiana Pacers (5),4,Atlanta Hawks (1),2,ATL (-160),IND (+140)
+1994,NBA,Eastern Conf Semifinals,New York Knicks (2),4,Chicago Bulls (3),3,NYK (-180),CHI (+160)
+1994,NBA,Western Conf Semifinals,Houston Rockets (2),4,Phoenix Suns (3),3,HOU (-120),PHO (+100)
+1994,NBA,Western Conf Semifinals,Utah Jazz (5),4,Denver Nuggets (8),3,UTA (-650),DEN (+450)
+1994,NBA,Eastern Conf Finals,New York Knicks (2),4,Indiana Pacers (5),3,NYK (-200),IND (+170)
+1994,NBA,Western Conf Finals,Houston Rockets (2),4,Utah Jazz (5),1,HOU (-270),UTA (+210)
+1994,NBA,Finals,Houston Rockets (2),4,New York Knicks (2),3,HOU (-220),NYK (+180)
+1993,NBA,Eastern Conf First Round,Charlotte Hornets (5),3,Boston Celtics (4),1,BOS (-165),CHH (+145)
+1993,NBA,Eastern Conf First Round,Chicago Bulls (2),3,Atlanta Hawks (7),0,CHI (-1200),ATL (+800)
+1993,NBA,Eastern Conf First Round,Cleveland Cavaliers (3),3,New Jersey Nets (6),2,CLE (-700),NJN (+500)
+1993,NBA,Eastern Conf First Round,New York Knicks (1),3,Indiana Pacers (8),1,NYK (-900),IND (+600)
+1993,NBA,Western Conf First Round,Houston Rockets (2),3,Los Angeles Clippers (7),2,HOU (-600),LAC (+400)
+1993,NBA,Western Conf First Round,Phoenix Suns (1),3,Los Angeles Lakers (8),2,PHO (-3000),LAL (+2000)
+1993,NBA,Western Conf First Round,San Antonio Spurs (5),3,Portland Trail Blazers (4),1,POR (-250),SAS (+200)
+1993,NBA,Western Conf First Round,Seattle SuperSonics (3),3,Utah Jazz (6),2,SEA (-350),UTA (+275)
+1993,NBA,Eastern Conf Semifinals,Chicago Bulls (2),4,Cleveland Cavaliers (3),0,CHI (-500),CLE (+350)
+1993,NBA,Eastern Conf Semifinals,New York Knicks (1),4,Charlotte Hornets (5),1,,
+1993,NBA,Western Conf Semifinals,Phoenix Suns (1),4,San Antonio Spurs (5),2,PHO (-650),SAS (+450)
+1993,NBA,Western Conf Semifinals,Seattle SuperSonics (3),4,Houston Rockets (2),3,SEA (-135),HOU (+115)
+1993,NBA,Eastern Conf Finals,Chicago Bulls (2),4,New York Knicks (1),2,CHI (-150),NYK (+130)
+1993,NBA,Western Conf Finals,Phoenix Suns (1),4,Seattle SuperSonics (3),3,PHO (-330),SEA (+250)
+1993,NBA,Finals,Chicago Bulls (2),4,Phoenix Suns (1),2,CHI (-240),PHO (+190)
+1992,NBA,Eastern Conf First Round,Boston Celtics (2),3,Indiana Pacers (7),0,BOS (-550),IND (+350)
+1992,NBA,Eastern Conf First Round,Chicago Bulls (1),3,Miami Heat (8),0,CHI (-10000),MIA (+7500)
+1992,NBA,Eastern Conf First Round,Cleveland Cavaliers (3),3,New Jersey Nets (6),1,CLE (-850),NJN (+550)
+1992,NBA,Eastern Conf First Round,New York Knicks (4),3,Detroit Pistons (5),2,NYK (-160),DET (+120)
+1992,NBA,Western Conf First Round,Phoenix Suns (4),3,San Antonio Spurs (5),0,PHO (-1500),SAS (+1000)
+1992,NBA,Western Conf First Round,Portland Trail Blazers (1),3,Los Angeles Lakers (8),1,POR (-2000),LAL (+1500)
+1992,NBA,Western Conf First Round,Seattle SuperSonics (6),3,Golden State Warriors (3),1,GSW (-270),SEA (+210)
+1992,NBA,Western Conf First Round,Utah Jazz (2),3,Los Angeles Clippers (7),2,UTA (-450),LAC (+325)
+1992,NBA,Eastern Conf Semifinals,Chicago Bulls (1),4,New York Knicks (4),3,CHI (-2500),NYK (+1700)
+1992,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (3),4,Boston Celtics (2),3,CLE (-170),BOS (+130)
+1992,NBA,Western Conf Semifinals,Portland Trail Blazers (1),4,Phoenix Suns (4),1,POR (-500),PHO (+350)
+1992,NBA,Western Conf Semifinals,Utah Jazz (2),4,Seattle SuperSonics (6),1,UTA (-200),SEA (+160)
+1992,NBA,Eastern Conf Finals,Chicago Bulls (1),4,Cleveland Cavaliers (3),2,CHI (-650),CLE (+450)
+1992,NBA,Western Conf Finals,Portland Trail Blazers (1),4,Utah Jazz (2),2,POR (-360),UTA (+280)
+1992,NBA,Finals,Chicago Bulls (1),4,Portland Trail Blazers (1),2,CHI (-250),POR (+200)
+1991,NBA,Eastern Conf First Round,Boston Celtics (2),3,Indiana Pacers (7),2,BOS (-900),IND (+600)
+1991,NBA,Eastern Conf First Round,Chicago Bulls (1),3,New York Knicks (8),0,CHI (-1200),NYK (+800)
+1991,NBA,Eastern Conf First Round,Detroit Pistons (3),3,Atlanta Hawks (6),2,DET (-400),ATL (+300)
+1991,NBA,Eastern Conf First Round,Philadelphia 76ers (5),3,Milwaukee Bucks (4),0,MIL (-180),PHI (+140)
+1991,NBA,Western Conf First Round,Golden State Warriors (7),3,San Antonio Spurs (2),1,SAS (-500),GSW (+350)
+1991,NBA,Western Conf First Round,Los Angeles Lakers (3),3,Houston Rockets (6),0,LAL (-360),HOU (+280)
+1991,NBA,Western Conf First Round,Portland Trail Blazers (1),3,Seattle SuperSonics (8),2,POR (-1200),SEA (+800)
+1991,NBA,Western Conf First Round,Utah Jazz (5),3,Phoenix Suns (4),1,PHO (-360),UTA (+280)
+1991,NBA,Eastern Conf Semifinals,Chicago Bulls (1),4,Philadelphia 76ers (5),1,CHI (-500),PHI (+350)
+1991,NBA,Eastern Conf Semifinals,Detroit Pistons (3),4,Boston Celtics (2),2,BOS (-270),DET (+210)
+1991,NBA,Western Conf Semifinals,Los Angeles Lakers (3),4,Golden State Warriors (7),1,LAL (-800),GSW (+550)
+1991,NBA,Western Conf Semifinals,Portland Trail Blazers (1),4,Utah Jazz (5),1,POR (-650),UTA (+450)
+1991,NBA,Eastern Conf Finals,Chicago Bulls (1),4,Detroit Pistons (3),0,CHI (-270),DET (+210)
+1991,NBA,Western Conf Finals,Los Angeles Lakers (3),4,Portland Trail Blazers (1),2,POR (-190),LAL (+150)
+1991,NBA,Finals,Chicago Bulls (1),4,Los Angeles Lakers (3),1,CHI (-200),LAL (+170)
+1990,NBA,Eastern Conf First Round,Chicago Bulls (3),3,Milwaukee Bucks (6),1,CHI (-650),MIL (+450)
+1990,NBA,Eastern Conf First Round,Detroit Pistons (1),3,Indiana Pacers (8),0,DET (-1200),IND (+800)
+1990,NBA,Eastern Conf First Round,New York Knicks (5),3,Boston Celtics (4),2,BOS (-450),NYK (+325)
+1990,NBA,Eastern Conf First Round,Philadelphia 76ers (2),3,Cleveland Cavaliers (7),2,PHI (-450),CLE (+325)
+1990,NBA,Western Conf First Round,Los Angeles Lakers (1),3,Houston Rockets (8),1,LAL (-1200),HOU (+800)
+1990,NBA,Western Conf First Round,Phoenix Suns (5),3,Utah Jazz (4),2,UTA (-160),PHO (+140)
+1990,NBA,Western Conf First Round,Portland Trail Blazers (3),3,Dallas Mavericks (6),0,POR (-600),DAL (+400)
+1990,NBA,Western Conf First Round,San Antonio Spurs (2),3,Denver Nuggets (7),0,SAS (-500),DEN (+350)
+1990,NBA,Eastern Conf Semifinals,Chicago Bulls (3),4,Philadelphia 76ers (2),1,CHI (-160),PHI (+140)
+1990,NBA,Eastern Conf Semifinals,Detroit Pistons (1),4,New York Knicks (5),1,DET (-1500),NYK (+1000)
+1990,NBA,Western Conf Semifinals,Phoenix Suns (5),4,Los Angeles Lakers (1),1,LAL (-700),PHO (+500)
+1990,NBA,Western Conf Semifinals,Portland Trail Blazers (3),4,San Antonio Spurs (2),3,POR (-200),SAS (+170)
+1990,NBA,Eastern Conf Finals,Detroit Pistons (1),4,Chicago Bulls (3),3,DET (-280),CHI (+220)
+1990,NBA,Western Conf Finals,Portland Trail Blazers (3),4,Phoenix Suns (5),2,PHO (-120),POR (+100)
+1990,NBA,Finals,Detroit Pistons (1),4,Portland Trail Blazers (3),1,DET (-400),POR (+300)
+1989,NBA,Eastern Conf First Round,Chicago Bulls (6),3,Cleveland Cavaliers (3),2,CLE (-500),CHI (+350)
+1989,NBA,Eastern Conf First Round,Detroit Pistons (1),3,Boston Celtics (8),0,DET (-2000),BOS (+1500)
+1989,NBA,Eastern Conf First Round,Milwaukee Bucks (5),3,Atlanta Hawks (4),2,ATL (-250),MIL (+200)
+1989,NBA,Eastern Conf First Round,New York Knicks (2),3,Philadelphia 76ers (7),0,NYK (-350),PHI (+275)
+1989,NBA,Western Conf First Round,Golden State Warriors (7),3,Utah Jazz (2),0,UTA (-1000),GSW (+700)
+1989,NBA,Western Conf First Round,Los Angeles Lakers (1),3,Portland Trail Blazers (8),0,LAL (-2500),POR (+2000)
+1989,NBA,Western Conf First Round,Phoenix Suns (3),3,Denver Nuggets (6),0,PHO (-1000),DEN (+700)
+1989,NBA,Western Conf First Round,Seattle SuperSonics (4),3,Houston Rockets (5),1,SEA (-280),HOU (+230)
+1989,NBA,Eastern Conf Semifinals,Chicago Bulls (6),4,New York Knicks (2),2,NYK (-450),CHI (+300)
+1989,NBA,Eastern Conf Semifinals,Detroit Pistons (1),4,Milwaukee Bucks (5),0,DET (-700),MIL (+500)
+1989,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Seattle SuperSonics (4),0,LAL (-700),SEA (+500)
+1989,NBA,Western Conf Semifinals,Phoenix Suns (3),4,Golden State Warriors (7),1,PHO (-850),GSW (+550)
+1989,NBA,Eastern Conf Finals,Detroit Pistons (1),4,Chicago Bulls (6),2,DET (-650),CHI (+450)
+1989,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Phoenix Suns (3),0,LAL (-300),PHO (+240)
+1989,NBA,Finals,Detroit Pistons (1),4,Los Angeles Lakers (1),0,LAL (-120),DET (+100)
+1988,NBA,Eastern Conf First Round,Atlanta Hawks (4),3,Milwaukee Bucks (5),2,ATL (-450),MIL (+300)
+1988,NBA,Eastern Conf First Round,Boston Celtics (1),3,New York Knicks (8),1,BOS (-1200),NYK (+800)
+1988,NBA,Eastern Conf First Round,Chicago Bulls (3),3,Cleveland Cavaliers (6),2,CHI (-300),CLE (+240)
+1988,NBA,Eastern Conf First Round,Detroit Pistons (2),3,Washington Bullets (7),2,DET (-800),WSB (+550)
+1988,NBA,Western Conf First Round,Dallas Mavericks (3),3,Houston Rockets (6),1,DAL (-400),HOU (+300)
+1988,NBA,Western Conf First Round,Denver Nuggets (2),3,Seattle SuperSonics (7),2,DEN (-500),SEA (+350)
+1988,NBA,Western Conf First Round,Los Angeles Lakers (1),3,San Antonio Spurs (8),0,LAL (-3000),SAS (+2000)
+1988,NBA,Western Conf First Round,Utah Jazz (5),3,Portland Trail Blazers (4),1,POR (-250),UTA (+200)
+1988,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Atlanta Hawks (4),3,BOS (-500),ATL (+300)
+1988,NBA,Eastern Conf Semifinals,Detroit Pistons (2),4,Chicago Bulls (3),1,DET (-240),CHI (+200)
+1988,NBA,Western Conf Semifinals,Dallas Mavericks (3),4,Denver Nuggets (2),2,DEN (-170),DAL (+150)
+1988,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Utah Jazz (5),3,,
+1988,NBA,Eastern Conf Finals,Detroit Pistons (2),4,Boston Celtics (1),2,BOS (-250),DET (+200)
+1988,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Dallas Mavericks (3),3,LAL (-450),DAL (+300)
+1988,NBA,Finals,Los Angeles Lakers (1),4,Detroit Pistons (2),3,LAL (-260),DET (+210)
+1987,NBA,Eastern Conf First Round,Atlanta Hawks (2),3,Indiana Pacers (7),1,,
+1987,NBA,Eastern Conf First Round,Boston Celtics (1),3,Chicago Bulls (8),0,,
+1987,NBA,Eastern Conf First Round,Detroit Pistons (3),3,Washington Bullets (6),0,,
+1987,NBA,Eastern Conf First Round,Milwaukee Bucks (4),3,Philadelphia 76ers (5),2,,
+1987,NBA,Western Conf First Round,Golden State Warriors (5),3,Utah Jazz (4),2,,
+1987,NBA,Western Conf First Round,Houston Rockets (6),3,Portland Trail Blazers (3),1,,
+1987,NBA,Western Conf First Round,Los Angeles Lakers (1),3,Denver Nuggets (8),0,,
+1987,NBA,Western Conf First Round,Seattle SuperSonics (7),3,Dallas Mavericks (2),1,,
+1987,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Milwaukee Bucks (4),3,,
+1987,NBA,Eastern Conf Semifinals,Detroit Pistons (3),4,Atlanta Hawks (2),1,,
+1987,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Golden State Warriors (5),1,,
+1987,NBA,Western Conf Semifinals,Seattle SuperSonics (7),4,Houston Rockets (6),2,,
+1987,NBA,Eastern Conf Finals,Boston Celtics (1),4,Detroit Pistons (3),3,,
+1987,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Seattle SuperSonics (7),0,,
+1987,NBA,Finals,Los Angeles Lakers (1),4,Boston Celtics (1),2,,
+1986,NBA,Eastern Conf First Round,Atlanta Hawks (4),3,Detroit Pistons (5),1,,
+1986,NBA,Eastern Conf First Round,Boston Celtics (1),3,Chicago Bulls (8),0,,
+1986,NBA,Eastern Conf First Round,Milwaukee Bucks (2),3,New Jersey Nets (7),0,,
+1986,NBA,Eastern Conf First Round,Philadelphia 76ers (3),3,Washington Bullets (6),2,,
+1986,NBA,Western Conf First Round,Dallas Mavericks (4),3,Utah Jazz (5),1,,
+1986,NBA,Western Conf First Round,Denver Nuggets (3),3,Portland Trail Blazers (6),1,,
+1986,NBA,Western Conf First Round,Houston Rockets (2),3,Sacramento Kings (7),0,,
+1986,NBA,Western Conf First Round,Los Angeles Lakers (1),3,San Antonio Spurs (8),0,,
+1986,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Atlanta Hawks (4),1,,
+1986,NBA,Eastern Conf Semifinals,Milwaukee Bucks (2),4,Philadelphia 76ers (3),3,,
+1986,NBA,Western Conf Semifinals,Houston Rockets (2),4,Denver Nuggets (3),2,,
+1986,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Dallas Mavericks (4),2,,
+1986,NBA,Eastern Conf Finals,Boston Celtics (1),4,Milwaukee Bucks (2),0,,
+1986,NBA,Western Conf Finals,Houston Rockets (2),4,Los Angeles Lakers (1),1,,
+1986,NBA,Finals,Boston Celtics (1),4,Houston Rockets (2),2,,
+1985,NBA,Eastern Conf First Round,Boston Celtics (1),3,Cleveland Cavaliers (8),1,,
+1985,NBA,Eastern Conf First Round,Detroit Pistons (4),3,New Jersey Nets (5),0,,
+1985,NBA,Eastern Conf First Round,Milwaukee Bucks (2),3,Chicago Bulls (7),1,,
+1985,NBA,Eastern Conf First Round,Philadelphia 76ers (3),3,Washington Bullets (6),1,,
+1985,NBA,Western Conf First Round,Denver Nuggets (2),3,San Antonio Spurs (7),2,,
+1985,NBA,Western Conf First Round,Los Angeles Lakers (1),3,Phoenix Suns (8),0,,
+1985,NBA,Western Conf First Round,Portland Trail Blazers (5),3,Dallas Mavericks (4),1,,
+1985,NBA,Western Conf First Round,Utah Jazz (6),3,Houston Rockets (3),2,,
+1985,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Detroit Pistons (4),2,,
+1985,NBA,Eastern Conf Semifinals,Philadelphia 76ers (3),4,Milwaukee Bucks (2),0,,
+1985,NBA,Western Conf Semifinals,Denver Nuggets (2),4,Utah Jazz (6),1,,
+1985,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Portland Trail Blazers (5),1,,
+1985,NBA,Eastern Conf Finals,Boston Celtics (1),4,Philadelphia 76ers (3),1,,
+1985,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Denver Nuggets (2),1,,
+1985,NBA,Finals,Los Angeles Lakers (1),4,Boston Celtics (1),2,,
+1984,NBA,Eastern Conf First Round,Boston Celtics (1),3,Washington Bullets (8),1,,
+1984,NBA,Eastern Conf First Round,Milwaukee Bucks (2),3,Atlanta Hawks (7),2,,
+1984,NBA,Eastern Conf First Round,New Jersey Nets (6),3,Philadelphia 76ers (3),2,,
+1984,NBA,Eastern Conf First Round,New York Knicks (5),3,Detroit Pistons (4),2,,
+1984,NBA,Western Conf First Round,Dallas Mavericks (4),3,Seattle SuperSonics (5),2,,
+1984,NBA,Western Conf First Round,Los Angeles Lakers (1),3,Kansas City Kings (8),0,,
+1984,NBA,Western Conf First Round,Phoenix Suns (6),3,Portland Trail Blazers (3),2,,
+1984,NBA,Western Conf First Round,Utah Jazz (2),3,Denver Nuggets (7),2,,
+1984,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,New York Knicks (5),3,,
+1984,NBA,Eastern Conf Semifinals,Milwaukee Bucks (2),4,New Jersey Nets (6),2,,
+1984,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Dallas Mavericks (4),1,,
+1984,NBA,Western Conf Semifinals,Phoenix Suns (6),4,Utah Jazz (2),2,,
+1984,NBA,Eastern Conf Finals,Boston Celtics (1),4,Milwaukee Bucks (2),1,,
+1984,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Phoenix Suns (6),2,,
+1984,NBA,Finals,Boston Celtics (1),4,Los Angeles Lakers (1),3,,
+1983,NBA,Eastern Conf First Round,Boston Celtics (3),2,Atlanta Hawks (6),1,,
+1983,NBA,Eastern Conf First Round,New York Knicks (5),2,New Jersey Nets (4),0,,
+1983,NBA,Western Conf First Round,Denver Nuggets (6),2,Phoenix Suns (3),1,,
+1983,NBA,Western Conf First Round,Portland Trail Blazers (5),2,Seattle SuperSonics (4),0,,
+1983,NBA,Eastern Conf Semifinals,Milwaukee Bucks (2),4,Boston Celtics (3),0,,
+1983,NBA,Eastern Conf Semifinals,Philadelphia 76ers (1),4,New York Knicks (5),0,,
+1983,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Portland Trail Blazers (5),1,,
+1983,NBA,Western Conf Semifinals,San Antonio Spurs (2),4,Denver Nuggets (6),1,,
+1983,NBA,Eastern Conf Finals,Philadelphia 76ers (1),4,Milwaukee Bucks (2),1,,
+1983,NBA,Western Conf Finals,Los Angeles Lakers (1),4,San Antonio Spurs (2),2,,
+1983,NBA,Finals,Philadelphia 76ers (1),4,Los Angeles Lakers (1),0,,
+1982,NBA,Eastern Conf First Round,Philadelphia 76ers (3),2,Atlanta Hawks (6),0,,
+1982,NBA,Eastern Conf First Round,Washington Bullets (5),2,New Jersey Nets (4),0,,
+1982,NBA,Western Conf First Round,Phoenix Suns (5),2,Denver Nuggets (4),1,,
+1982,NBA,Western Conf First Round,Seattle SuperSonics (3),2,Houston Rockets (6),1,,
+1982,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Washington Bullets (5),1,,
+1982,NBA,Eastern Conf Semifinals,Philadelphia 76ers (3),4,Milwaukee Bucks (2),2,,
+1982,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Phoenix Suns (5),0,,
+1982,NBA,Western Conf Semifinals,San Antonio Spurs (2),4,Seattle SuperSonics (3),1,,
+1982,NBA,Eastern Conf Finals,Philadelphia 76ers (3),4,Boston Celtics (1),3,,
+1982,NBA,Western Conf Finals,Los Angeles Lakers (1),4,San Antonio Spurs (2),0,,
+1982,NBA,Finals,Los Angeles Lakers (1),4,Philadelphia 76ers (3),2,,
+1981,NBA,Eastern Conf First Round,Chicago Bulls (5),2,New York Knicks (4),0,,
+1981,NBA,Eastern Conf First Round,Philadelphia 76ers (3),2,Indiana Pacers (6),0,,
+1981,NBA,Western Conf First Round,Houston Rockets (6),2,Los Angeles Lakers (3),1,,
+1981,NBA,Western Conf First Round,Kansas City Kings (5),2,Portland Trail Blazers (4),1,,
+1981,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Chicago Bulls (5),0,,
+1981,NBA,Eastern Conf Semifinals,Philadelphia 76ers (3),4,Milwaukee Bucks (2),3,,
+1981,NBA,Western Conf Semifinals,Houston Rockets (6),4,San Antonio Spurs (2),3,,
+1981,NBA,Western Conf Semifinals,Kansas City Kings (5),4,Phoenix Suns (1),3,,
+1981,NBA,Eastern Conf Finals,Boston Celtics (1),4,Philadelphia 76ers (3),3,,
+1981,NBA,Western Conf Finals,Houston Rockets (6),4,Kansas City Kings (5),1,,
+1981,NBA,Finals,Boston Celtics (1),4,Houston Rockets (6),2,,
+1980,NBA,Eastern Conf First Round,Houston Rockets (4),2,San Antonio Spurs (5),1,,
+1980,NBA,Eastern Conf First Round,Philadelphia 76ers (3),2,Washington Bullets (6),0,,
+1980,NBA,Western Conf First Round,Phoenix Suns (4),2,Kansas City Kings (5),1,,
+1980,NBA,Western Conf First Round,Seattle SuperSonics (3),2,Portland Trail Blazers (6),1,,
+1980,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Houston Rockets (4),0,,
+1980,NBA,Eastern Conf Semifinals,Philadelphia 76ers (3),4,Atlanta Hawks (2),1,,
+1980,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Phoenix Suns (4),1,,
+1980,NBA,Western Conf Semifinals,Seattle SuperSonics (3),4,Milwaukee Bucks (2),3,,
+1980,NBA,Eastern Conf Finals,Philadelphia 76ers (3),4,Boston Celtics (1),1,,
+1980,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Seattle SuperSonics (3),1,,
+1980,NBA,Finals,Los Angeles Lakers (1),4,Philadelphia 76ers (3),2,,
+1979,NBA,Eastern Conf First Round,Atlanta Hawks (5),2,Houston Rockets (4),0,,
+1979,NBA,Eastern Conf First Round,Philadelphia 76ers (3),2,New Jersey Nets (6),0,,
+1979,NBA,Western Conf First Round,Los Angeles Lakers (5),2,Denver Nuggets (4),1,,
+1979,NBA,Western Conf First Round,Phoenix Suns (3),2,Portland Trail Blazers (6),1,,
+1979,NBA,Eastern Conf Semifinals,San Antonio Spurs (2),4,Philadelphia 76ers (3),3,,
+1979,NBA,Eastern Conf Semifinals,Washington Bullets (1),4,Atlanta Hawks (5),3,,
+1979,NBA,Western Conf Semifinals,Phoenix Suns (3),4,Kansas City Kings (2),1,,
+1979,NBA,Western Conf Semifinals,Seattle SuperSonics (1),4,Los Angeles Lakers (5),1,,
+1979,NBA,Eastern Conf Finals,Washington Bullets (1),4,San Antonio Spurs (2),3,,
+1979,NBA,Western Conf Finals,Seattle SuperSonics (1),4,Phoenix Suns (3),3,,
+1979,NBA,Finals,Seattle SuperSonics (1),4,Washington Bullets (1),1,,
+1978,NBA,Eastern Conf First Round,New York Knicks (5),2,Cleveland Cavaliers (4),0,,
+1978,NBA,Eastern Conf First Round,Washington Bullets (3),2,Atlanta Hawks (6),0,,
+1978,NBA,Western Conf First Round,Milwaukee Bucks (6),2,Phoenix Suns (3),0,,
+1978,NBA,Western Conf First Round,Seattle SuperSonics (4),2,Los Angeles Lakers (5),1,,
+1978,NBA,Eastern Conf Semifinals,Philadelphia 76ers (1),4,New York Knicks (5),0,,
+1978,NBA,Eastern Conf Semifinals,Washington Bullets (3),4,San Antonio Spurs (2),2,,
+1978,NBA,Western Conf Semifinals,Denver Nuggets (2),4,Milwaukee Bucks (6),3,,
+1978,NBA,Western Conf Semifinals,Seattle SuperSonics (4),4,Portland Trail Blazers (1),2,,
+1978,NBA,Eastern Conf Finals,Washington Bullets (3),4,Philadelphia 76ers (1),2,,
+1978,NBA,Western Conf Finals,Seattle SuperSonics (4),4,Denver Nuggets (2),2,,
+1978,NBA,Finals,Washington Bullets (3),4,Seattle SuperSonics (4),3,,
+1977,NBA,Eastern Conf First Round,Boston Celtics (4),2,San Antonio Spurs (5),0,,
+1977,NBA,Eastern Conf First Round,Washington Bullets (3),2,Cleveland Cavaliers (6),1,,
+1977,NBA,Western Conf First Round,Golden State Warriors (4),2,Detroit Pistons (5),1,,
+1977,NBA,Western Conf First Round,Portland Trail Blazers (3),2,Chicago Bulls (6),1,,
+1977,NBA,Eastern Conf Semifinals,Houston Rockets (2),4,Washington Bullets (3),2,,
+1977,NBA,Eastern Conf Semifinals,Philadelphia 76ers (1),4,Boston Celtics (4),3,,
+1977,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Golden State Warriors (4),3,,
+1977,NBA,Western Conf Semifinals,Portland Trail Blazers (3),4,Denver Nuggets (2),2,,
+1977,NBA,Eastern Conf Finals,Philadelphia 76ers (1),4,Houston Rockets (2),2,,
+1977,NBA,Western Conf Finals,Portland Trail Blazers (3),4,Los Angeles Lakers (1),0,,
+1977,NBA,Finals,Portland Trail Blazers (3),4,Philadelphia 76ers (1),2,,
+1976,NBA,Eastern Conf First Round,Buffalo Braves (5),2,Philadelphia 76ers (4),1,,
+1976,NBA,Western Conf First Round,Detroit Pistons (5),2,Milwaukee Bucks (4),1,,
+1976,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Buffalo Braves (5),2,,
+1976,NBA,Eastern Conf Semifinals,Cleveland Cavaliers (2),4,Washington Bullets (3),3,,
+1976,NBA,Western Conf Semifinals,Golden State Warriors (1),4,Detroit Pistons (5),2,,
+1976,NBA,Western Conf Semifinals,Phoenix Suns (3),4,Seattle SuperSonics (2),2,,
+1976,NBA,Eastern Conf Finals,Boston Celtics (1),4,Cleveland Cavaliers (2),2,,
+1976,NBA,Western Conf Finals,Phoenix Suns (3),4,Golden State Warriors (1),3,,
+1976,NBA,Finals,Boston Celtics (1),4,Phoenix Suns (3),2,,
+1976,ABA,First Round,Kentucky Colonels (4),2,Indiana Pacers (5),1,,
+1976,ABA,Semifinals,Denver Nuggets (1),4,Kentucky Colonels (4),3,,
+1976,ABA,Semifinals,New York Nets (2),4,San Antonio Spurs (3),3,,
+1976,ABA,Finals,New York Nets (2),4,Denver Nuggets (1),2,,
+1975,NBA,Eastern Conf First Round,Houston Rockets (4),2,New York Knicks (5),1,,
+1975,NBA,Western Conf First Round,Seattle SuperSonics (4),2,Detroit Pistons (5),1,,
+1975,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Houston Rockets (4),1,,
+1975,NBA,Eastern Conf Semifinals,Washington Bullets (2),4,Buffalo Braves (3),3,,
+1975,NBA,Western Conf Semifinals,Chicago Bulls (2),4,Kansas City-Omaha Kings (3),2,,
+1975,NBA,Western Conf Semifinals,Golden State Warriors (1),4,Seattle SuperSonics (4),2,,
+1975,NBA,Eastern Conf Finals,Washington Bullets (2),4,Boston Celtics (1),2,,
+1975,NBA,Western Conf Finals,Golden State Warriors (1),4,Chicago Bulls (2),3,,
+1975,NBA,Finals,Golden State Warriors (1),4,Washington Bullets (2),0,,
+1975,ABA,Eastern Div Tiebreak,Kentucky Colonels,1,New York Nets,0,,
+1975,ABA,Eastern Div Semifinals,Kentucky Colonels (1),4,Memphis Sounds (4),1,,
+1975,ABA,Eastern Div Semifinals,Spirits of St. Louis (3),4,New York Nets (2),1,,
+1975,ABA,Western Div Semifinals,Denver Nuggets (1),4,Utah Stars (4),2,,
+1975,ABA,Western Div Semifinals,Indiana Pacers (3),4,San Antonio Spurs (2),2,,
+1975,ABA,Eastern Div Finals,Kentucky Colonels (1),4,Spirits of St. Louis (3),1,,
+1975,ABA,Western Div Finals,Indiana Pacers (3),4,Denver Nuggets (1),3,,
+1975,ABA,Finals,Kentucky Colonels (1),4,Indiana Pacers (3),1,,
+1974,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Buffalo Braves (4),2,,
+1974,NBA,Eastern Conf Semifinals,New York Knicks (2),4,Capital Bullets (3),3,,
+1974,NBA,Western Conf Semifinals,Chicago Bulls (2),4,Detroit Pistons (3),3,,
+1974,NBA,Western Conf Semifinals,Milwaukee Bucks (1),4,Los Angeles Lakers (4),1,,
+1974,NBA,Eastern Conf Finals,Boston Celtics (1),4,New York Knicks (2),1,,
+1974,NBA,Western Conf Finals,Milwaukee Bucks (1),4,Chicago Bulls (2),0,,
+1974,NBA,Finals,Boston Celtics (1),4,Milwaukee Bucks (1),3,,
+1974,ABA,Western Div Tiebreak,San Diego Conquistadors,1,Denver Rockets,0,,
+1974,ABA,Eastern Div Semifinals,Kentucky Colonels (2),4,Carolina Cougars (3),0,,
+1974,ABA,Eastern Div Semifinals,New York Nets (1),4,Virginia Squires (4),1,,
+1974,ABA,Western Div Semifinals,Indiana Pacers (2),4,San Antonio Spurs (3),3,,
+1974,ABA,Western Div Semifinals,Utah Stars (1),4,San Diego Conquistadors (4),2,,
+1974,ABA,Eastern Div Finals,New York Nets (1),4,Kentucky Colonels (2),0,,
+1974,ABA,Western Div Finals,Utah Stars (1),4,Indiana Pacers (2),3,,
+1974,ABA,Finals,New York Nets (1),4,Utah Stars (1),1,,
+1973,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Atlanta Hawks (4),2,,
+1973,NBA,Eastern Conf Semifinals,New York Knicks (2),4,Baltimore Bullets (3),1,,
+1973,NBA,Western Conf Semifinals,Golden State Warriors (4),4,Milwaukee Bucks (1),2,,
+1973,NBA,Western Conf Semifinals,Los Angeles Lakers (2),4,Chicago Bulls (3),3,,
+1973,NBA,Eastern Conf Finals,New York Knicks (2),4,Boston Celtics (1),3,,
+1973,NBA,Western Conf Finals,Los Angeles Lakers (2),4,Golden State Warriors (4),1,,
+1973,NBA,Finals,New York Knicks (2),4,Los Angeles Lakers (2),1,,
+1973,ABA,Eastern Div Semifinals,Carolina Cougars (1),4,New York Nets (4),1,,
+1973,ABA,Eastern Div Semifinals,Kentucky Colonels (2),4,Virginia Squires (3),1,,
+1973,ABA,Western Div Semifinals,Indiana Pacers (2),4,Denver Rockets (3),1,,
+1973,ABA,Western Div Semifinals,Utah Stars (1),4,San Diego Conquistadors (4),0,,
+1973,ABA,Eastern Div Finals,Kentucky Colonels (2),4,Carolina Cougars (1),3,,
+1973,ABA,Western Div Finals,Indiana Pacers (2),4,Utah Stars (1),2,,
+1973,ABA,Finals,Indiana Pacers (2),4,Kentucky Colonels (2),3,,
+1972,NBA,Eastern Conf Semifinals,Boston Celtics (1),4,Atlanta Hawks (2),2,,
+1972,NBA,Eastern Conf Semifinals,New York Knicks (2),4,Baltimore Bullets (1),2,,
+1972,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Chicago Bulls (2),0,,
+1972,NBA,Western Conf Semifinals,Milwaukee Bucks (1),4,Golden State Warriors (2),1,,
+1972,NBA,Eastern Conf Finals,New York Knicks (2),4,Boston Celtics (1),1,,
+1972,NBA,Western Conf Finals,Los Angeles Lakers (1),4,Milwaukee Bucks (1),2,,
+1972,NBA,Finals,Los Angeles Lakers (1),4,New York Knicks (2),1,,
+1972,ABA,Eastern Div Semifinals,New York Nets (3),4,Kentucky Colonels (1),2,,
+1972,ABA,Eastern Div Semifinals,Virginia Squires (2),4,The Floridians (4),0,,
+1972,ABA,Western Div Semifinals,Indiana Pacers (2),4,Denver Rockets (4),3,,
+1972,ABA,Western Div Semifinals,Utah Stars (1),4,Dallas Chaparrals (3),0,,
+1972,ABA,Eastern Div Finals,New York Nets (3),4,Virginia Squires (2),3,,
+1972,ABA,Western Div Finals,Indiana Pacers (2),4,Utah Stars (1),3,,
+1972,ABA,Finals,Indiana Pacers (2),4,New York Nets (3),2,,
+1971,NBA,Eastern Conf Semifinals,Baltimore Bullets (1),4,Philadelphia 76ers (2),3,,
+1971,NBA,Eastern Conf Semifinals,New York Knicks (1),4,Atlanta Hawks (2),1,,
+1971,NBA,Western Conf Semifinals,Los Angeles Lakers (1),4,Chicago Bulls (2),3,,
+1971,NBA,Western Conf Semifinals,Milwaukee Bucks (1),4,San Francisco Warriors (2),1,,
+1971,NBA,Eastern Conf Finals,Baltimore Bullets (1),4,New York Knicks (1),3,,
+1971,NBA,Western Conf Finals,Milwaukee Bucks (1),4,Los Angeles Lakers (1),1,,
+1971,NBA,Finals,Milwaukee Bucks (1),4,Baltimore Bullets (1),0,,
+1971,ABA,Western Div Tiebreak,Texas Chaparrals,1,Denver Rockets,0,,
+1971,ABA,Eastern Div Semifinals,Kentucky Colonels (2),4,The Floridians (4),2,,
+1971,ABA,Eastern Div Semifinals,Virginia Squires (1),4,New York Nets (3),2,,
+1971,ABA,Western Div Semifinals,Indiana Pacers (1),4,Memphis Pros (3),0,,
+1971,ABA,Western Div Semifinals,Utah Stars (2),4,Texas Chaparrals (4),0,,
+1971,ABA,Eastern Div Finals,Kentucky Colonels (2),4,Virginia Squires (1),2,,
+1971,ABA,Western Div Finals,Utah Stars (2),4,Indiana Pacers (1),3,,
+1971,ABA,Finals,Utah Stars (2),4,Kentucky Colonels (2),3,,
+1970,NBA,Eastern Div Semifinals,Milwaukee Bucks (2),4,Philadelphia 76ers (4),1,,
+1970,NBA,Eastern Div Semifinals,New York Knicks (1),4,Baltimore Bullets (3),3,,
+1970,NBA,Western Div Semifinals,Atlanta Hawks (1),4,Chicago Bulls (3),1,,
+1970,NBA,Western Div Semifinals,Los Angeles Lakers (2),4,Phoenix Suns (4),3,,
+1970,NBA,Eastern Div Finals,New York Knicks (1),4,Milwaukee Bucks (2),1,,
+1970,NBA,Western Div Finals,Los Angeles Lakers (2),4,Atlanta Hawks (1),0,,
+1970,NBA,Finals,New York Knicks (1),4,Los Angeles Lakers (2),3,,
+1970,ABA,Eastern Div Semifinals,Indiana Pacers (1),4,Carolina Cougars (3),0,,
+1970,ABA,Eastern Div Semifinals,Kentucky Colonels (2),4,New York Nets (4),3,,
+1970,ABA,Western Div Semifinals,Denver Rockets (1),4,Washington Capitols (3),3,,
+1970,ABA,Western Div Semifinals,Los Angeles Stars (4),4,Dallas Chaparrals (2),2,,
+1970,ABA,Eastern Div Finals,Indiana Pacers (1),4,Kentucky Colonels (2),1,,
+1970,ABA,Western Div Finals,Los Angeles Stars (4),4,Denver Rockets (1),1,,
+1970,ABA,Finals,Indiana Pacers (1),4,Los Angeles Stars (4),2,,
+1969,NBA,Eastern Div Semifinals,Boston Celtics (4),4,Philadelphia 76ers (2),1,,
+1969,NBA,Eastern Div Semifinals,New York Knicks (3),4,Baltimore Bullets (1),0,,
+1969,NBA,Western Div Semifinals,Atlanta Hawks (2),4,San Diego Rockets (4),2,,
+1969,NBA,Western Div Semifinals,Los Angeles Lakers (1),4,San Francisco Warriors (3),2,,
+1969,NBA,Eastern Div Finals,Boston Celtics (4),4,New York Knicks (3),2,,
+1969,NBA,Western Div Finals,Los Angeles Lakers (1),4,Atlanta Hawks (2),1,,
+1969,NBA,Finals,Boston Celtics (4),4,Los Angeles Lakers (1),3,,
+1969,ABA,Eastern Div Semifinals,Indiana Pacers (1),4,Kentucky Colonels (3),3,,
+1969,ABA,Eastern Div Semifinals,Miami Floridians (2),4,Minnesota Pipers (4),3,,
+1969,ABA,Western Div Semifinals,New Orleans Buccaneers (2),4,Dallas Chaparrals (4),3,,
+1969,ABA,Western Div Semifinals,Oakland Oaks (1),4,Denver Rockets (3),3,,
+1969,ABA,Eastern Div Finals,Indiana Pacers (1),4,Miami Floridians (2),1,,
+1969,ABA,Western Div Finals,Oakland Oaks (1),4,New Orleans Buccaneers (2),0,,
+1969,ABA,Finals,Oakland Oaks (1),4,Indiana Pacers (1),1,,
+1968,NBA,Eastern Div Semifinals,Boston Celtics (2),4,Detroit Pistons (4),2,,
+1968,NBA,Eastern Div Semifinals,Philadelphia 76ers (1),4,New York Knicks (3),2,,
+1968,NBA,Western Div Semifinals,Los Angeles Lakers (2),4,Chicago Bulls (4),1,,
+1968,NBA,Western Div Semifinals,San Francisco Warriors (3),4,St. Louis Hawks (1),2,,
+1968,NBA,Eastern Div Finals,Boston Celtics (2),4,Philadelphia 76ers (1),3,,
+1968,NBA,Western Div Finals,Los Angeles Lakers (2),4,San Francisco Warriors (3),0,,
+1968,NBA,Finals,Boston Celtics (2),4,Los Angeles Lakers (2),2,,
+1968,ABA,Eastern Div Semifinals,Minnesota Muskies (2),3,Kentucky Colonels (4),2,,
+1968,ABA,Eastern Div Semifinals,Pittsburgh Pipers (1),3,Indiana Pacers (3),0,,
+1968,ABA,Western Div Semifinals,Dallas Chaparrals (2),3,Houston Mavericks (4),0,,
+1968,ABA,Western Div Semifinals,New Orleans Buccaneers (1),3,Denver Rockets (3),2,,
+1968,ABA,Eastern Div Finals,Pittsburgh Pipers (1),4,Minnesota Muskies (2),1,,
+1968,ABA,Western Div Finals,New Orleans Buccaneers (1),4,Dallas Chaparrals (2),1,,
+1968,ABA,Finals,Pittsburgh Pipers (1),4,New Orleans Buccaneers (1),3,,
+1967,NBA,Eastern Div Semifinals,Boston Celtics (2),3,New York Knicks (4),1,,
+1967,NBA,Eastern Div Semifinals,Philadelphia 76ers (1),3,Cincinnati Royals (3),1,,
+1967,NBA,Western Div Semifinals,San Francisco Warriors (1),3,Los Angeles Lakers (3),0,,
+1967,NBA,Western Div Semifinals,St. Louis Hawks (2),3,Chicago Bulls (4),0,,
+1967,NBA,Eastern Div Finals,Philadelphia 76ers (1),4,Boston Celtics (2),1,,
+1967,NBA,Western Div Finals,San Francisco Warriors (1),4,St. Louis Hawks (2),2,,
+1967,NBA,Finals,Philadelphia 76ers (1),4,San Francisco Warriors (1),2,,
+1966,NBA,Eastern Div Semifinals,Boston Celtics (2),3,Cincinnati Royals (3),2,,
+1966,NBA,Western Div Semifinals,St. Louis Hawks (3),3,Baltimore Bullets (2),0,,
+1966,NBA,Eastern Div Finals,Boston Celtics (2),4,Philadelphia 76ers (1),1,,
+1966,NBA,Western Div Finals,Los Angeles Lakers (1),4,St. Louis Hawks (3),3,,
+1966,NBA,Finals,Boston Celtics (2),4,Los Angeles Lakers (1),3,,
+1965,NBA,Eastern Div Semifinals,Philadelphia 76ers (3),3,Cincinnati Royals (2),1,,
+1965,NBA,Western Div Semifinals,Baltimore Bullets (3),3,St. Louis Hawks (2),1,,
+1965,NBA,Eastern Div Finals,Boston Celtics (1),4,Philadelphia 76ers (3),3,,
+1965,NBA,Western Div Finals,Los Angeles Lakers (1),4,Baltimore Bullets (3),2,,
+1965,NBA,Finals,Boston Celtics (1),4,Los Angeles Lakers (1),1,,
+1964,NBA,Eastern Div Semifinals,Cincinnati Royals (2),3,Philadelphia 76ers (3),2,,
+1964,NBA,Western Div Semifinals,St. Louis Hawks (2),3,Los Angeles Lakers (3),2,,
+1964,NBA,Eastern Div Finals,Boston Celtics (1),4,Cincinnati Royals (2),1,,
+1964,NBA,Western Div Finals,San Francisco Warriors (1),4,St. Louis Hawks (2),3,,
+1964,NBA,Finals,Boston Celtics (1),4,San Francisco Warriors (1),1,,
+1963,NBA,Eastern Div Semifinals,Cincinnati Royals (3),3,Syracuse Nationals (2),2,,
+1963,NBA,Western Div Semifinals,St. Louis Hawks (2),3,Detroit Pistons (3),1,,
+1963,NBA,Eastern Div Finals,Boston Celtics (1),4,Cincinnati Royals (3),3,,
+1963,NBA,Western Div Finals,Los Angeles Lakers (1),4,St. Louis Hawks (2),3,,
+1963,NBA,Finals,Boston Celtics (1),4,Los Angeles Lakers (1),2,,
+1962,NBA,Eastern Div Semifinals,Philadelphia Warriors (2),3,Syracuse Nationals (3),2,,
+1962,NBA,Western Div Semifinals,Detroit Pistons (3),3,Cincinnati Royals (2),1,,
+1962,NBA,Eastern Div Finals,Boston Celtics (1),4,Philadelphia Warriors (2),3,,
+1962,NBA,Western Div Finals,Los Angeles Lakers (1),4,Detroit Pistons (3),2,,
+1962,NBA,Finals,Boston Celtics (1),4,Los Angeles Lakers (1),3,,
+1961,NBA,Eastern Div Semifinals,Syracuse Nationals (3),3,Philadelphia Warriors (2),0,,
+1961,NBA,Western Div Semifinals,Los Angeles Lakers (2),3,Detroit Pistons (3),2,,
+1961,NBA,Eastern Div Finals,Boston Celtics (1),4,Syracuse Nationals (3),1,,
+1961,NBA,Western Div Finals,St. Louis Hawks (1),4,Los Angeles Lakers (2),3,,
+1961,NBA,Finals,Boston Celtics (1),4,St. Louis Hawks (1),1,,
+1960,NBA,Eastern Div Semifinals,Philadelphia Warriors (2),2,Syracuse Nationals (3),1,,
+1960,NBA,Western Div Semifinals,Minneapolis Lakers (3),2,Detroit Pistons (2),0,,
+1960,NBA,Eastern Div Finals,Boston Celtics (1),4,Philadelphia Warriors (2),2,,
+1960,NBA,Western Div Finals,St. Louis Hawks (1),4,Minneapolis Lakers (3),3,,
+1960,NBA,Finals,Boston Celtics (1),4,St. Louis Hawks (1),3,,
+1959,NBA,Eastern Div Semifinals,Syracuse Nationals (3),2,New York Knicks (2),0,,
+1959,NBA,Western Div Semifinals,Minneapolis Lakers (2),2,Detroit Pistons (3),1,,
+1959,NBA,Eastern Div Finals,Boston Celtics (1),4,Syracuse Nationals (3),3,,
+1959,NBA,Western Div Finals,Minneapolis Lakers (2),4,St. Louis Hawks (1),2,,
+1959,NBA,Finals,Boston Celtics (1),4,Minneapolis Lakers (2),0,,
+1958,NBA,Eastern Div Semifinals,Philadelphia Warriors (3),2,Syracuse Nationals (2),1,,
+1958,NBA,Western Div Semifinals,Detroit Pistons (2),2,Cincinnati Royals (3),0,,
+1958,NBA,Eastern Div Finals,Boston Celtics (1),4,Philadelphia Warriors (3),1,,
+1958,NBA,Western Div Finals,St. Louis Hawks (1),4,Detroit Pistons (2),1,,
+1958,NBA,Finals,St. Louis Hawks (1),4,Boston Celtics (1),2,,
+1957,NBA,Western Div Tiebreak,St. Louis Hawks,1,Fort Wayne Pistons,0,,
+1957,NBA,Western Div Tiebreak,St. Louis Hawks,1,Minneapolis Lakers,0,,
+1957,NBA,Eastern Div Semifinals,Syracuse Nationals (2),2,Philadelphia Warriors (3),0,,
+1957,NBA,Western Div Semifinals,Minneapolis Lakers (2),2,Fort Wayne Pistons (3),0,,
+1957,NBA,Eastern Div Finals,Boston Celtics (1),3,Syracuse Nationals (2),0,,
+1957,NBA,Western Div Finals,St. Louis Hawks (1),3,Minneapolis Lakers (2),0,,
+1957,NBA,Finals,Boston Celtics (1),4,St. Louis Hawks (1),3,,
+1956,NBA,Eastern Div 3rd Place Tiebreak,Syracuse Nationals,1,New York Knicks,0,,
+1956,NBA,Western Div 2nd Place Tiebreak,Minneapolis Lakers,1,St. Louis Hawks,0,,
+1956,NBA,Eastern Div Semifinals,Syracuse Nationals (3),2,Boston Celtics (2),1,,
+1956,NBA,Western Div Semifinals,St. Louis Hawks (3),2,Minneapolis Lakers (2),1,,
+1956,NBA,Eastern Div Finals,Philadelphia Warriors (1),3,Syracuse Nationals (3),2,,
+1956,NBA,Western Div Finals,Fort Wayne Pistons (1),3,St. Louis Hawks (3),2,,
+1956,NBA,Finals,Philadelphia Warriors (1),4,Fort Wayne Pistons (1),1,,
+1955,NBA,Eastern Div Semifinals,Boston Celtics (3),2,New York Knicks (2),1,,
+1955,NBA,Western Div Semifinals,Minneapolis Lakers (2),2,Rochester Royals (3),1,,
+1955,NBA,Eastern Div Finals,Syracuse Nationals (1),3,Boston Celtics (3),1,,
+1955,NBA,Western Div Finals,Fort Wayne Pistons (1),3,Minneapolis Lakers (2),1,,
+1955,NBA,Finals,Syracuse Nationals (1),4,Fort Wayne Pistons (1),3,,
+1954,NBA,Eastern Div Finals,Syracuse Nationals (1),2,Boston Celtics (2),0,,
+1954,NBA,Western Div Finals,Minneapolis Lakers (1),2,Rochester Royals (2),1,,
+1954,NBA,Finals,Minneapolis Lakers (1),4,Syracuse Nationals (1),3,,
+1953,NBA,Eastern Div Semifinals,Boston Celtics (3),2,Syracuse Nationals (2),0,,
+1953,NBA,Eastern Div Semifinals,New York Knicks (1),2,Baltimore Bullets (4),0,,
+1953,NBA,Western Div Semifinals,Fort Wayne Pistons (3),2,Rochester Royals (2),1,,
+1953,NBA,Western Div Semifinals,Minneapolis Lakers (1),2,Indianapolis Olympians (4),0,,
+1953,NBA,Eastern Div Finals,New York Knicks (1),3,Boston Celtics (3),1,,
+1953,NBA,Western Div Finals,Minneapolis Lakers (1),3,Fort Wayne Pistons (3),2,,
+1953,NBA,Finals,Minneapolis Lakers (1),4,New York Knicks (1),1,,
+1952,NBA,Eastern Div Semifinals,New York Knicks (3),2,Boston Celtics (2),1,,
+1952,NBA,Eastern Div Semifinals,Syracuse Nationals (1),2,Philadelphia Warriors (4),1,,
+1952,NBA,Western Div Semifinals,Minneapolis Lakers (2),2,Indianapolis Olympians (3),0,,
+1952,NBA,Western Div Semifinals,Rochester Royals (1),2,Fort Wayne Pistons (4),0,,
+1952,NBA,Eastern Div Finals,New York Knicks (3),3,Syracuse Nationals (1),1,,
+1952,NBA,Western Div Finals,Minneapolis Lakers (2),3,Rochester Royals (1),1,,
+1952,NBA,Finals,Minneapolis Lakers (2),4,New York Knicks (3),3,,
+1951,NBA,Eastern Div Semifinals,New York Knicks (3),2,Boston Celtics (2),0,,
+1951,NBA,Eastern Div Semifinals,Syracuse Nationals (4),2,Philadelphia Warriors (1),0,,
+1951,NBA,Western Div Semifinals,Minneapolis Lakers (1),2,Indianapolis Olympians (4),1,,
+1951,NBA,Western Div Semifinals,Rochester Royals (2),2,Fort Wayne Pistons (3),1,,
+1951,NBA,Eastern Div Finals,New York Knicks (3),3,Syracuse Nationals (4),2,,
+1951,NBA,Western Div Finals,Rochester Royals (2),3,Minneapolis Lakers (1),1,,
+1951,NBA,Finals,Rochester Royals (2),4,New York Knicks (3),3,,
+1950,NBA,Central Div 1st Place Tiebreak,Minneapolis Lakers,1,Rochester Royals,0,,
+1950,NBA,Central Div 3rd Place Tiebreak,Fort Wayne Pistons,1,Chicago Stags,0,,
+1950,NBA,Central Div Semifinals,Fort Wayne Pistons (3),2,Rochester Royals (2),0,,
+1950,NBA,Central Div Semifinals,Minneapolis Lakers (1),2,Chicago Stags (4),0,,
+1950,NBA,Eastern Div Semifinals,New York Knicks (2),2,Washington Capitols (3),0,,
+1950,NBA,Eastern Div Semifinals,Syracuse Nationals (1),2,Philadelphia Warriors (4),0,,
+1950,NBA,Western Div Semifinals,Anderson Packers (2),2,Tri-Cities Blackhawks (3),1,,
+1950,NBA,Western Div Semifinals,Indianapolis Olympians (1),2,Sheboygan Red Skins (4),1,,
+1950,NBA,Central Div Finals,Minneapolis Lakers (1),2,Fort Wayne Pistons (3),0,,
+1950,NBA,Eastern Div Finals,Syracuse Nationals (1),2,New York Knicks (2),1,,
+1950,NBA,Western Div Finals,Anderson Packers (2),2,Indianapolis Olympians (1),1,,
+1950,NBA,Semifinals,Minneapolis Lakers (2),2,Anderson Packers (3),0,,
+1950,NBA,Finals,Minneapolis Lakers (2),4,Syracuse Nationals (1),2,,
+1949,BAA,Eastern Div Semifinals,New York Knicks (2),2,Baltimore Bullets (3),1,,
+1949,BAA,Eastern Div Semifinals,Washington Capitols (1),2,Philadelphia Warriors (4),0,,
+1949,BAA,Western Div Semifinals,Minneapolis Lakers (2),2,Chicago Stags (3),0,,
+1949,BAA,Western Div Semifinals,Rochester Royals (1),2,St. Louis Bombers (4),0,,
+1949,BAA,Eastern Div Finals,Washington Capitols (1),2,New York Knicks (2),1,,
+1949,BAA,Western Div Finals,Minneapolis Lakers (2),2,Rochester Royals (1),0,,
+1949,BAA,Finals,Minneapolis Lakers (2),4,Washington Capitols (1),2,,
+1948,BAA,Western Div Tiebreak,Baltimore Bullets,1,Chicago Stags,0,,
+1948,BAA,Western Div Tiebreak,Chicago Stags,1,Washington Capitols,0,,
+1948,BAA,Quarterfinals,Baltimore Bullets (2),2,New York Knicks (2),1,,
+1948,BAA,Quarterfinals,Chicago Stags (3),2,Boston Celtics (3),1,,
+1948,BAA,Semifinals,Baltimore Bullets (2),2,Chicago Stags (3),0,,
+1948,BAA,Semifinals,Philadelphia Warriors (1),4,St. Louis Bombers (1),3,,
+1948,BAA,Finals,Baltimore Bullets (2),4,Philadelphia Warriors (1),2,,
+1947,BAA,Quarterfinals,New York Knicks (3),2,Cleveland Rebels (3),1,,
+1947,BAA,Quarterfinals,Philadelphia Warriors (2),2,St. Louis Bombers (2),1,,
+1947,BAA,Semifinals,Chicago Stags (1),4,Washington Capitols (1),2,,
+1947,BAA,Semifinals,Philadelphia Warriors (2),2,New York Knicks (3),0,,
+1947,BAA,Finals,Philadelphia Warriors (2),4,Chicago Stags (1),1,,
